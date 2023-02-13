@@ -1,0 +1,991 @@
+Occupation,Marital Status,Education,Gender,Emirate,support,Coverage,Country,Income
+Self-Employed,Single,,M,Dubai,0.26146788990825687,,,0
+Self-Employed,,,M,Dubai,0.24770642201834864,Basic,,0
+Self-Employed,Single,,M,,0.15137614678899083,Basic,,0
+Self-Employed,,Bachelor,M,Dubai,0.15137614678899083,,,0
+Self-Employed,Single,,,Dubai,0.14678899082568808,Basic,,0
+,Single,,M,Dubai,0.14678899082568808,Basic,,0
+Self-Employed,Single,,M,Dubai,0.14678899082568808,Basic,,
+Self-Employed,,,M,Dubai,0.14678899082568808,Extended,,0
+Self-Employed,Married,,M,Dubai,0.14220183486238533,,,0
+Self-Employed,,College,M,Dubai,0.14220183486238533,,,0
+Self-Employed,,High School or Below,M,Dubai,0.13302752293577982,,,0
+Self-Employed,,,M,Dubai,0.12385321100917432,,Pakistan,0
+Self-Employed,,,M,Dubai,0.12385321100917432,,India,0
+,Single,,M,Dubai,0.11926605504587157,Basic,India,
+Self-Employed,,Bachelor,M,,0.11009174311926606,Basic,,0
+Self-Employed,,Bachelor,M,Dubai,0.10550458715596331,Basic,,
+Self-Employed,,Bachelor,,Dubai,0.10550458715596331,Basic,,0
+,,Bachelor,M,Dubai,0.10550458715596331,Basic,,0
+,Single,High School or Below,M,Dubai,0.10091743119266056,Basic,,
+Self-Employed,,,M,,0.0963302752293578,Basic,India,0
+,Single,College,M,Dubai,0.0963302752293578,Basic,,
+Self-Employed,Married,,M,,0.0963302752293578,Basic,,0
+,Single,College,M,Dubai,0.09174311926605505,,,0
+Employed,Single,,M,Dubai,0.09174311926605505,Basic,,
+Self-Employed,Single,College,M,,0.09174311926605505,,,0
+Self-Employed,Single,Bachelor,M,,0.09174311926605505,,,0
+Self-Employed,Single,College,,Dubai,0.09174311926605505,,,0
+Self-Employed,Single,College,M,Dubai,0.09174311926605505,,,
+Self-Employed,Single,,M,Dubai,0.0871559633027523,Extended,,
+Self-Employed,Single,,M,,0.0871559633027523,Extended,,0
+Self-Employed,,,M,Dubai,0.0871559633027523,,Philipines,0
+Employed,Divorced,,M,Dubai,0.0871559633027523,Basic,,
+,Single,Bachelor,M,Dubai,0.0871559633027523,,,0
+Self-Employed,Single,,,Dubai,0.0871559633027523,Extended,,0
+Self-Employed,,,M,,0.0871559633027523,Basic,Pakistan,0
+Self-Employed,Single,Bachelor,,Dubai,0.0871559633027523,,,0
+Self-Employed,Single,Bachelor,M,Dubai,0.0871559633027523,,,
+,Single,,M,Dubai,0.0871559633027523,Extended,,0
+Self-Employed,,,M,Dubai,0.08256880733944955,Basic,India,
+,,,M,Dubai,0.08256880733944955,Basic,Pakistan,0
+Self-Employed,Married,,,Dubai,0.08256880733944955,Basic,,0
+Self-Employed,,,,Dubai,0.08256880733944955,Basic,India,0
+Self-Employed,,,M,Dubai,0.08256880733944955,Basic,Pakistan,
+,Single,Bachelor,M,Dubai,0.08256880733944955,Basic,,
+Self-Employed,Married,,M,Dubai,0.08256880733944955,Basic,,
+Self-Employed,,,,Dubai,0.08256880733944955,Basic,Pakistan,0
+,Married,,M,Dubai,0.08256880733944955,Basic,,0
+,,,M,Dubai,0.08256880733944955,Basic,India,0
+,,Bachelor,M,Dubai,0.0779816513761468,Basic,India,
+,Married,Bachelor,M,Dubai,0.0779816513761468,Basic,,
+Self-Employed,Married,,M,,0.0779816513761468,Extended,,0
+Self-Employed,Single,,M,,0.0779816513761468,,India,0
+Self-Employed,Single,,,Dubai,0.07339449541284404,,India,0
+Self-Employed,,High School or Below,,Dubai,0.07339449541284404,Basic,,0
+,Divorced,Bachelor,M,Dubai,0.07339449541284404,Basic,,
+Self-Employed,,High School or Below,M,,0.07339449541284404,Basic,,0
+,Single,,M,Dubai,0.07339449541284404,,India,0
+Self-Employed,,Bachelor,M,,0.07339449541284404,,India,0
+,,High School or Below,M,Dubai,0.07339449541284404,Basic,,0
+,Single,High School or Below,M,Dubai,0.07339449541284404,,,0
+Self-Employed,Single,,M,Dubai,0.07339449541284404,,India,
+Self-Employed,,High School or Below,M,Dubai,0.07339449541284404,Basic,,
+Self-Employed,Single,High School or Below,M,Dubai,0.07339449541284404,,,
+Self-Employed,Single,High School or Below,,Dubai,0.07339449541284404,,,0
+Self-Employed,Single,High School or Below,M,,0.07339449541284404,,,0
+Employed,,,M,Dubai,0.07339449541284404,Basic,India,
+Self-Employed,Single,,M,Dubai,0.06880733944954129,,Pakistan,
+,Single,,M,Dubai,0.06880733944954129,,Pakistan,0
+Self-Employed,Single,,,Dubai,0.06880733944954129,,Pakistan,0
+Self-Employed,Single,,M,,0.06880733944954129,,Pakistan,0
+Self-Employed,,College,M,,0.06880733944954129,Basic,,0
+Self-Employed,,Bachelor,M,Dubai,0.06422018348623854,,India,
+Self-Employed,Married,,M,,0.06422018348623854,,Pakistan,0
+,Single,,M,Dubai,0.06422018348623854,Basic,Philipines,
+,,High School or Below,M,Dubai,0.06422018348623854,Basic,India,
+Employed,,Bachelor,M,Dubai,0.06422018348623854,Basic,,
+,Single,,M,Dubai,0.06422018348623854,Basic,Pakistan,
+Self-Employed,,Bachelor,,Dubai,0.06422018348623854,,India,0
+,,Bachelor,M,Dubai,0.06422018348623854,,India,0
+,,Bachelor,M,Dubai,0.06422018348623854,Basic,Pakistan,
+,Single,Bachelor,M,,0.05963302752293578,Basic,,0
+,,College,M,Dubai,0.05963302752293578,Basic,,0
+Self-Employed,,,M,,0.05963302752293578,Basic,Philipines,0
+Self-Employed,,College,M,Dubai,0.05963302752293578,Basic,,
+Self-Employed,Single,Bachelor,M,,0.05963302752293578,Basic,,
+,,,M,Dubai,0.05963302752293578,Basic,Philipines,0
+Self-Employed,,,,Dubai,0.05963302752293578,Basic,Philipines,0
+Self-Employed,,College,,Dubai,0.05963302752293578,Basic,,0
+Employed,Single,High School or Below,M,Dubai,0.05963302752293578,,,
+Employed,Divorced,Bachelor,M,Dubai,0.05963302752293578,,,
+Self-Employed,,,M,Dubai,0.05963302752293578,Basic,Philipines,
+Self-Employed,Single,Bachelor,,,0.05963302752293578,Basic,,0
+Self-Employed,Married,High School or Below,M,,0.05963302752293578,,,0
+Self-Employed,,,M,Dubai,0.05504587155963303,Premium,UAE,
+Self-Employed,,,,Dubai,0.05504587155963303,Premium,UAE,0
+Self-Employed,Single,Bachelor,,Dubai,0.05504587155963303,Basic,,
+,Married,,M,Dubai,0.05504587155963303,Basic,Philipines,
+Self-Employed,Single,,M,,0.05504587155963303,Basic,India,
+Self-Employed,,,M,Dubai,0.05504587155963303,Premium,,0
+Self-Employed,,,M,,0.05504587155963303,Premium,UAE,0
+,Single,Bachelor,M,Dubai,0.05504587155963303,,India,
+,Married,High School or Below,M,Dubai,0.05504587155963303,Basic,,
+,,,M,Dubai,0.05504587155963303,Premium,UAE,0
+,Single,,M,Dubai,0.05504587155963303,,Philipines,0
+Self-Employed,Single,,,,0.05504587155963303,Basic,India,0
+Self-Employed,,College,M,,0.05504587155963303,Extended,,0
+,Married,High School or Below,M,Dubai,0.05504587155963303,,,0
+Self-Employed,,,M,Dubai,0.05504587155963303,,UAE,0
+Self-Employed,Single,,,Dubai,0.05504587155963303,,Philipines,0
+,,College,M,Dubai,0.05504587155963303,Basic,India,
+,Single,Bachelor,,Dubai,0.05504587155963303,Basic,,0
+,Single,,M,,0.05504587155963303,Basic,India,0
+Employed,,High School or Below,M,Dubai,0.05504587155963303,Basic,,
+Self-Employed,Married,College,M,,0.05504587155963303,,,0
+Self-Employed,Single,,M,,0.05504587155963303,,Philipines,0
+Self-Employed,Married,Bachelor,M,,0.05504587155963303,,,0
+Self-Employed,,,M,,0.05504587155963303,Extended,India,0
+Self-Employed,,,M,,0.05504587155963303,Extended,Pakistan,0
+Self-Employed,Married,,M,,0.05504587155963303,,India,0
+Self-Employed,Single,,M,Dubai,0.05504587155963303,,Philipines,
+Self-Employed,Married,High School or Below,M,Dubai,0.05504587155963303,,,
+Self-Employed,Married,High School or Below,,Dubai,0.05504587155963303,,,0
+Employed,Divorced,Bachelor,,Dubai,0.05045871559633028,Basic,,
+,,High School or Below,M,Dubai,0.05045871559633028,Basic,Philipines,
+,Single,,,Dubai,0.05045871559633028,Basic,India,0
+,Single,High School or Below,M,Dubai,0.05045871559633028,,India,
+Self-Employed,Single,,,Dubai,0.05045871559633028,Basic,India,
+Employed,Divorced,Bachelor,M,,0.05045871559633028,Basic,,
+Employed,Single,,M,Dubai,0.05045871559633028,,India,
+Self-Employed,,High School or Below,M,,0.05045871559633028,Extended,,0
+Self-Employed,,Bachelor,M,,0.05045871559633028,Extended,,0
+,,Bachelor,M,Dubai,0.05045871559633028,Basic,Philipines,
+,Single,,M,Dubai,0.05045871559633028,Premium,UAE,
+,Married,Bachelor,M,Dubai,0.045871559633027525,,,0
+Self-Employed,,Bachelor,M,,0.045871559633027525,,Pakistan,0
+Self-Employed,,High School or Below,M,Dubai,0.045871559633027525,Extended,,
+Self-Employed,Married,,M,Dubai,0.045871559633027525,,Pakistan,
+Employed,Single,College,M,Dubai,0.045871559633027525,,,
+,Married,,M,Dubai,0.045871559633027525,Extended,,0
+,Single,College,M,,0.045871559633027525,Basic,,0
+,Single,High School or Below,M,,0.045871559633027525,Basic,India,
+,Married,,M,Dubai,0.045871559633027525,Basic,India,
+Self-Employed,Married,Bachelor,M,Dubai,0.045871559633027525,,,
+Self-Employed,Married,,M,Dubai,0.045871559633027525,Extended,,
+,Married,,M,Dubai,0.045871559633027525,Basic,Pakistan,
+,Single,College,,Dubai,0.045871559633027525,Basic,,0
+Self-Employed,,Bachelor,M,,0.045871559633027525,Basic,India,
+Self-Employed,Married,Bachelor,,Dubai,0.045871559633027525,,,0
+Self-Employed,,High School or Below,,Dubai,0.045871559633027525,Extended,,0
+,Married,,M,Dubai,0.045871559633027525,,Pakistan,0
+Self-Employed,,Bachelor,,,0.045871559633027525,Basic,India,0
+Self-Employed,Single,College,M,,0.045871559633027525,Basic,,
+,,Bachelor,M,,0.045871559633027525,Basic,India,0
+,Single,,M,,0.045871559633027525,Basic,Pakistan,0
+Self-Employed,Single,,,,0.045871559633027525,Basic,Pakistan,0
+Self-Employed,Single,College,,Dubai,0.045871559633027525,Basic,,
+Self-Employed,Married,,,Dubai,0.045871559633027525,Extended,,0
+Self-Employed,Single,,M,,0.045871559633027525,Basic,Pakistan,
+Self-Employed,Divorced,,M,Dubai,0.045871559633027525,,,0
+Self-Employed,Single,,,Dubai,0.045871559633027525,Basic,Pakistan,
+Self-Employed,Single,College,,,0.045871559633027525,Basic,,0
+Self-Employed,,College,M,Dubai,0.045871559633027525,Extended,,
+,Single,High School or Below,,Dubai,0.045871559633027525,Basic,India,
+,Single,,,Dubai,0.045871559633027525,Basic,Pakistan,0
+Self-Employed,Married,,,Dubai,0.045871559633027525,,Pakistan,0
+,,College,M,Dubai,0.045871559633027525,Extended,,0
+Self-Employed,,College,,Dubai,0.045871559633027525,Extended,,0
+,,College,M,Dubai,0.045871559633027525,Premium,UAE,
+,,High School or Below,M,Dubai,0.045871559633027525,Extended,,0
+Enterpreneur,Married,,M,Dubai,0.04128440366972477,Basic,,
+Self-Employed,Single,High School or Below,,,0.04128440366972477,Basic,,0
+,Single,High School or Below,,Dubai,0.04128440366972477,Basic,,0
+Employed,Single,High School or Below,,Dubai,0.04128440366972477,Basic,,
+Self-Employed,Married,Bachelor,,,0.04128440366972477,Basic,,0
+,,Bachelor,M,Dubai,0.04128440366972477,,Pakistan,0
+Self-Employed,Married,Bachelor,M,,0.04128440366972477,Basic,,
+Self-Employed,Married,Bachelor,,Dubai,0.04128440366972477,Basic,,
+,Single,High School or Below,M,,0.04128440366972477,Basic,,0
+Self-Employed,Single,High School or Below,,Dubai,0.04128440366972477,Basic,,
+Self-Employed,,Bachelor,,Dubai,0.04128440366972477,,Pakistan,0
+Self-Employed,,Bachelor,,Dubai,0.04128440366972477,Extended,,0
+Self-Employed,,Bachelor,,Dubai,0.04128440366972477,Basic,India,
+Employed,Single,,,Dubai,0.04128440366972477,Basic,India,
+Self-Employed,,Bachelor,M,Dubai,0.04128440366972477,Extended,,
+Employed,Single,,M,,0.04128440366972477,Basic,India,
+Self-Employed,,Bachelor,M,Dubai,0.04128440366972477,,Pakistan,
+,Single,College,M,Dubai,0.04128440366972477,,India,
+,,College,M,Dubai,0.04128440366972477,Basic,Pakistan,
+,Single,College,M,Dubai,0.04128440366972477,,Pakistan,
+Employed,Single,High School or Below,M,,0.04128440366972477,Basic,,
+Self-Employed,,High School or Below,M,,0.04128440366972477,,Pakistan,0
+Self-Employed,Single,Bachelor,M,,0.04128440366972477,,India,
+,,Bachelor,M,Dubai,0.04128440366972477,Extended,,0
+Self-Employed,,,,Dubai,0.04128440366972477,Extended,India,0
+,Single,,M,Dubai,0.04128440366972477,Extended,Pakistan,
+,,,M,Dubai,0.04128440366972477,Extended,Pakistan,0
+Self-Employed,Single,High School or Below,M,,0.04128440366972477,Basic,,
+Self-Employed,,,M,Dubai,0.04128440366972477,Extended,Pakistan,
+,,Bachelor,,Dubai,0.04128440366972477,Basic,India,0
+,Married,Bachelor,,Dubai,0.04128440366972477,Basic,,0
+Self-Employed,,,M,Dubai,0.04128440366972477,Extended,India,
+Self-Employed,,,,Dubai,0.04128440366972477,Extended,Pakistan,0
+,Divorced,,M,Dubai,0.04128440366972477,Basic,India,
+,Single,Bachelor,M,,0.04128440366972477,,India,0
+,Single,High School or Below,M,Dubai,0.04128440366972477,Extended,,
+,Married,Bachelor,M,,0.04128440366972477,Basic,,0
+Employed,Divorced,,M,Dubai,0.04128440366972477,,India,
+Self-Employed,Single,Bachelor,,,0.04128440366972477,,India,0
+,Single,Bachelor,M,,0.04128440366972477,Basic,India,
+,Divorced,,M,Dubai,0.04128440366972477,Basic,Pakistan,
+,,,M,Dubai,0.04128440366972477,Extended,India,0
+Self-Employed,Married,,M,,0.03669724770642202,Basic,Pakistan,
+Self-Employed,,High School or Below,,Dubai,0.03669724770642202,,Pakistan,0
+,Married,College,M,,0.03669724770642202,Extended,,0
+Employed,,College,M,Dubai,0.03669724770642202,Basic,,
+,,College,M,,0.03669724770642202,Premium,UAE,0
+Self-Employed,Married,College,,,0.03669724770642202,Extended,,0
+Employed,,,M,Dubai,0.03669724770642202,Basic,Philipines,
+Self-Employed,,College,,Dubai,0.03669724770642202,Premium,,0
+Self-Employed,Married,College,,Dubai,0.03669724770642202,,,0
+Self-Employed,,College,,Dubai,0.03669724770642202,,UAE,0
+,Single,College,M,Dubai,0.03669724770642202,Extended,,
+Self-Employed,,College,M,Dubai,0.03669724770642202,Premium,,
+Self-Employed,Married,College,M,,0.03669724770642202,Extended,,
+Self-Employed,Married,College,M,Dubai,0.03669724770642202,,,
+Self-Employed,,College,M,,0.03669724770642202,Premium,UAE,
+Self-Employed,,College,,Dubai,0.03669724770642202,Premium,UAE,
+Self-Employed,,College,,,0.03669724770642202,Premium,UAE,0
+,Married,College,M,Dubai,0.03669724770642202,,,0
+Self-Employed,,College,M,Dubai,0.03669724770642202,,UAE,
+Self-Employed,,College,M,,0.03669724770642202,,UAE,0
+Self-Employed,Married,,,Dubai,0.03669724770642202,,India,0
+Self-Employed,,College,M,,0.03669724770642202,Premium,,0
+,,College,M,Dubai,0.03669724770642202,Premium,,0
+Employed,Divorced,,M,Dubai,0.03669724770642202,,Pakistan,
+Self-Employed,,,M,Dubai,0.03669724770642202,,China,0
+,Single,Bachelor,M,Dubai,0.03669724770642202,Extended,,
+Enterpreneur,Single,,M,Dubai,0.03669724770642202,Basic,,
+,,College,M,Dubai,0.03669724770642202,,UAE,0
+,,High School or Below,M,Dubai,0.03669724770642202,,Pakistan,0
+Self-Employed,Married,,,,0.03669724770642202,Basic,Pakistan,0
+,Married,,M,,0.03669724770642202,Basic,Pakistan,0
+Self-Employed,,High School or Below,M,Dubai,0.03669724770642202,,Pakistan,
+Enterpreneur,,High School or Below,M,Dubai,0.03669724770642202,Basic,,
+,Single,Bachelor,,Dubai,0.03669724770642202,,India,0
+Self-Employed,,College,M,,0.03669724770642202,,India,0
+Self-Employed,Married,,M,Dubai,0.03669724770642202,,India,
+Self-Employed,Single,Bachelor,,Dubai,0.03669724770642202,,India,
+,Single,Bachelor,,Dubai,0.03669724770642202,Basic,India,
+Employed,Single,,M,Dubai,0.03669724770642202,Extended,,
+,,College,,Dubai,0.03669724770642202,Premium,UAE,0
+,Married,,M,Dubai,0.03669724770642202,,India,0
+Employed,Divorced,,,Dubai,0.03211009174311927,Basic,India,
+,Single,College,,Dubai,0.03211009174311927,Premium,UAE,
+Enterpreneur,,,M,Dubai,0.03211009174311927,Basic,India,
+,Married,College,M,Dubai,0.03211009174311927,Extended,,
+,Married,College,M,Dubai,0.03211009174311927,Basic,,
+,Single,College,M,Dubai,0.03211009174311927,,UAE,
+,Single,College,M,,0.03211009174311927,Premium,UAE,
+Self-Employed,Married,,,,0.03211009174311927,Basic,India,0
+,Single,High School or Below,,Dubai,0.03211009174311927,Extended,,0
+Self-Employed,Single,,M,,0.03211009174311927,Basic,Philipines,
+Self-Employed,,College,M,,0.03211009174311927,,Pakistan,0
+Self-Employed,Single,High School or Below,,,0.03211009174311927,Extended,,0
+,Single,College,M,Dubai,0.03211009174311927,Premium,,
+Self-Employed,Single,High School or Below,,Dubai,0.03211009174311927,Extended,,
+Self-Employed,Single,,,Dubai,0.03211009174311927,Basic,Philipines,
+Retired,,Bachelor,M,Dubai,0.03211009174311927,Basic,,
+Self-Employed,,High School or Below,M,,0.03211009174311927,,India,0
+,Single,,,Dubai,0.03211009174311927,Basic,Philipines,0
+Self-Employed,Single,,,,0.03211009174311927,Basic,Philipines,0
+,Single,High School or Below,M,Dubai,0.03211009174311927,,Philipines,
+,,High School or Below,M,Dubai,0.03211009174311927,,Philipines,0
+,Married,High School or Below,M,Dubai,0.03211009174311927,,Philipines,
+Self-Employed,Single,High School or Below,M,,0.03211009174311927,Extended,,
+Self-Employed,,High School or Below,M,,0.03211009174311927,,Philipines,0
+Self-Employed,Single,Bachelor,,Dubai,0.03211009174311927,Extended,,
+,Married,,,Dubai,0.03211009174311927,Basic,Pakistan,0
+,Single,,M,Dubai,0.03211009174311927,Extended,India,
+,Single,Bachelor,,Dubai,0.03211009174311927,Extended,,0
+,Single,College,,Dubai,0.03211009174311927,Basic,India,
+Employed,Divorced,,M,,0.03211009174311927,Basic,India,
+Self-Employed,Single,Bachelor,,,0.03211009174311927,Extended,,0
+Self-Employed,,High School or Below,M,Dubai,0.03211009174311927,,India,
+,,Bachelor,M,,0.03211009174311927,Basic,Pakistan,0
+Self-Employed,Married,,M,,0.03211009174311927,Basic,India,
+,Married,,M,,0.03211009174311927,Basic,India,0
+Self-Employed,,High School or Below,,Dubai,0.03211009174311927,,Philipines,0
+Self-Employed,,Bachelor,,Dubai,0.03211009174311927,Basic,Pakistan,
+,Single,Bachelor,M,,0.03211009174311927,Extended,,0
+Employed,,,M,Dubai,0.03211009174311927,Basic,Pakistan,
+Self-Employed,,High School or Below,M,Dubai,0.03211009174311927,,Philipines,
+,,High School or Below,M,Dubai,0.03211009174311927,Basic,Pakistan,
+Self-Employed,,Bachelor,M,,0.03211009174311927,Basic,Pakistan,
+Self-Employed,,Bachelor,,,0.03211009174311927,Basic,Pakistan,0
+,Single,,M,Dubai,0.03211009174311927,Basic,China,
+,Single,High School or Below,M,,0.03211009174311927,Extended,,0
+,,High School or Below,M,Dubai,0.03211009174311927,,India,0
+Self-Employed,,High School or Below,,Dubai,0.03211009174311927,,India,0
+,Single,College,M,,0.03211009174311927,Basic,India,
+Employed,,College,M,Dubai,0.03211009174311927,Extended,,
+,Single,,M,,0.03211009174311927,Basic,Philipines,0
+Self-Employed,Married,,,Dubai,0.03211009174311927,Basic,Pakistan,
+,,Bachelor,,Dubai,0.03211009174311927,Basic,Pakistan,0
+Self-Employed,Single,Bachelor,M,,0.03211009174311927,Extended,,
+Self-Employed,,Bachelor,,Dubai,0.027522935779816515,,Philipines,0
+Self-Employed,,College,,Dubai,0.027522935779816515,,Philipines,0
+Self-Employed,,Bachelor,M,Dubai,0.027522935779816515,,Philipines,
+Self-Employed,,Bachelor,,,0.027522935779816515,Extended,India,0
+Self-Employed,,Master,M,,0.027522935779816515,Extended,,0
+Self-Employed,,,M,Dubai,0.027522935779816515,Extended,Philipines,
+Self-Employed,,Bachelor,M,,0.027522935779816515,Extended,India,
+Self-Employed,,Bachelor,,Dubai,0.027522935779816515,Basic,Philipines,
+Self-Employed,,Bachelor,,,0.027522935779816515,Basic,Philipines,0
+Self-Employed,,,M,,0.027522935779816515,Extended,Other,0
+Self-Employed,Single,,M,,0.027522935779816515,Premium,,0
+Self-Employed,,Bachelor,M,,0.027522935779816515,,Philipines,0
+Self-Employed,Single,,,Dubai,0.027522935779816515,Premium,,0
+Self-Employed,,College,,Dubai,0.027522935779816515,,Pakistan,0
+Self-Employed,Single,,M,Dubai,0.027522935779816515,Premium,,
+Self-Employed,,,,Dubai,0.027522935779816515,Extended,Philipines,0
+Self-Employed,,Bachelor,M,,0.027522935779816515,Basic,Philipines,
+Self-Employed,,,M,,0.027522935779816515,Extended,Philipines,0
+Self-Employed,,College,,Dubai,0.027522935779816515,,India,0
+Employed,,Bachelor,M,Dubai,0.027522935779816515,,India,
+,Married,,M,Dubai,0.027522935779816515,,Philipines,0
+Employed,,Bachelor,M,,0.027522935779816515,Basic,India,
+,,Bachelor,M,,0.027522935779816515,Extended,India,0
+,Divorced,Bachelor,M,Dubai,0.027522935779816515,,Pakistan,
+,Married,,M,,0.027522935779816515,Extended,Pakistan,0
+,,Bachelor,M,Dubai,0.027522935779816515,,Philipines,0
+,Married,High School or Below,M,,0.027522935779816515,Basic,,0
+,Married,High School or Below,M,,0.027522935779816515,Basic,Philipines,
+,Divorced,Bachelor,M,Dubai,0.027522935779816515,,India,
+,Single,College,,,0.027522935779816515,Premium,UAE,0
+,,Bachelor,M,Dubai,0.027522935779816515,Extended,India,
+,Single,College,,Dubai,0.027522935779816515,Basic,Pakistan,
+,Single,College,M,,0.027522935779816515,Basic,Pakistan,
+,Married,High School or Below,,Dubai,0.027522935779816515,Basic,,0
+Self-Employed,Married,College,,Dubai,0.027522935779816515,Extended,,
+Employed,Divorced,College,M,Dubai,0.027522935779816515,,,
+Employed,Single,,M,,0.027522935779816515,Basic,Philipines,
+,Single,College,M,Dubai,0.027522935779816515,,Philipines,
+,,Bachelor,M,,0.027522935779816515,Basic,Philipines,0
+Self-Employed,Married,,M,Dubai,0.027522935779816515,,Philipines,
+Employed,Divorced,,M,,0.027522935779816515,Basic,Pakistan,
+,Married,College,,Dubai,0.027522935779816515,Extended,,0
+Self-Employed,Married,High School or Below,,Dubai,0.027522935779816515,Basic,,
+Self-Employed,Married,,,,0.027522935779816515,Extended,Pakistan,0
+Self-Employed,Married,High School or Below,,,0.027522935779816515,Basic,,0
+Employed,,,M,Dubai,0.027522935779816515,Extended,Pakistan,
+Employed,Divorced,,M,Dubai,0.027522935779816515,Extended,,
+Self-Employed,Married,,,Dubai,0.027522935779816515,,Philipines,0
+,,,M,Dubai,0.027522935779816515,Extended,Philipines,0
+Self-Employed,Married,High School or Below,M,,0.027522935779816515,Basic,,
+,Single,,M,Dubai,0.027522935779816515,Premium,,0
+Self-Employed,Married,,M,Abu Dhabi,0.027522935779816515,,,0
+Employed,Single,,M,Dubai,0.027522935779816515,,Philipines,
+,Married,Bachelor,M,Dubai,0.027522935779816515,,Philipines,
+,Married,Bachelor,M,Dubai,0.027522935779816515,,Pakistan,
+Self-Employed,Married,,M,,0.027522935779816515,Extended,Pakistan,
+,,Bachelor,,Dubai,0.027522935779816515,Basic,Philipines,0
+Employed,,Bachelor,,Dubai,0.027522935779816515,Basic,India,
+Self-Employed,Married,,M,,0.027522935779816515,,Philipines,0
+,Single,High School or Below,M,Dubai,0.027522935779816515,,Pakistan,
+,,College,M,Dubai,0.027522935779816515,Extended,Pakistan,
+,Married,High School or Below,,Dubai,0.027522935779816515,Basic,Philipines,
+Self-Employed,Single,College,,,0.027522935779816515,Premium,UAE,
+Self-Employed,Single,,M,,0.027522935779816515,,UAE,0
+Self-Employed,Single,,,Dubai,0.027522935779816515,,UAE,0
+Self-Employed,Single,College,M,,0.027522935779816515,,UAE,
+Self-Employed,Single,College,,Dubai,0.027522935779816515,Premium,,
+Self-Employed,Single,College,,,0.027522935779816515,Premium,,0
+Self-Employed,,College,M,Dubai,0.027522935779816515,,India,
+Self-Employed,,College,M,Dubai,0.027522935779816515,,Philipines,
+Self-Employed,,College,M,Dubai,0.027522935779816515,,Pakistan,
+Retired,Married,,M,Dubai,0.027522935779816515,Basic,,
+,Single,,M,Dubai,0.027522935779816515,,UAE,0
+Employed,Single,,,Dubai,0.027522935779816515,Basic,Philipines,
+,Single,,,Dubai,0.027522935779816515,Premium,UAE,0
+,Single,,M,,0.027522935779816515,Premium,UAE,0
+Employed,Divorced,,,Dubai,0.027522935779816515,Basic,Pakistan,
+Self-Employed,,College,M,,0.027522935779816515,,Philipines,0
+,,High School or Below,M,Dubai,0.027522935779816515,Premium,UAE,
+,Single,College,,Dubai,0.027522935779816515,,UAE,0
+,Single,College,M,,0.027522935779816515,,UAE,0
+,Single,College,M,,0.027522935779816515,Premium,,0
+Self-Employed,Single,College,M,,0.027522935779816515,Premium,,
+,Single,College,,Dubai,0.027522935779816515,Premium,,0
+Self-Employed,Single,,,Dubai,0.027522935779816515,Premium,UAE,
+Self-Employed,Single,College,,Dubai,0.027522935779816515,,UAE,
+Self-Employed,Single,College,,,0.027522935779816515,,UAE,0
+,,College,M,Dubai,0.027522935779816515,,India,0
+,,College,M,Dubai,0.027522935779816515,,Pakistan,0
+Self-Employed,Single,,M,Dubai,0.027522935779816515,,UAE,
+Self-Employed,Single,,,,0.027522935779816515,Premium,UAE,0
+Self-Employed,Single,,M,,0.027522935779816515,Premium,UAE,
+Employed,,College,M,Dubai,0.027522935779816515,,India,
+,,College,M,Dubai,0.027522935779816515,,Philipines,0
+,Single,High School or Below,,Dubai,0.022935779816513763,,Philipines,0
+,,High School or Below,,Dubai,0.022935779816513763,Basic,Pakistan,0
+,Single,,M,,0.022935779816513763,Extended,Philipines,0
+,Divorced,,M,Dubai,0.022935779816513763,Extended,Pakistan,
+,Single,,M,,0.022935779816513763,Extended,Pakistan,0
+Employed,,High School or Below,M,,0.022935779816513763,Basic,India,
+,Single,High School or Below,M,,0.022935779816513763,,Philipines,0
+Self-Employed,Single,High School or Below,M,,0.022935779816513763,,Philipines,
+,,High School or Below,M,,0.022935779816513763,Basic,Pakistan,0
+Enterpreneur,,,M,Dubai,0.022935779816513763,Basic,Philipines,
+,Single,High School or Below,M,Dubai,0.022935779816513763,,Other,
+Employed,,,M,Dubai,0.022935779816513763,Basic,China,
+Self-Employed,,,M,,0.022935779816513763,Basic,China,0
+,Single,High School or Below,M,,0.022935779816513763,,India,0
+Self-Employed,Single,,M,,0.022935779816513763,,China,0
+,Single,,M,,0.022935779816513763,Extended,India,0
+Employed,Single,,M,Dubai,0.022935779816513763,,Pakistan,
+,Single,,,Dubai,0.022935779816513763,Extended,India,0
+,Single,High School or Below,,Dubai,0.022935779816513763,,India,0
+,,High School or Below,,Dubai,0.022935779816513763,Basic,India,0
+Self-Employed,Single,,M,,0.022935779816513763,Extended,Pakistan,
+,,High School or Below,M,,0.022935779816513763,Basic,India,0
+Employed,,High School or Below,,Dubai,0.022935779816513763,Basic,India,
+Government,,,M,Dubai,0.022935779816513763,Basic,Pakistan,
+,Single,,,Dubai,0.022935779816513763,Extended,Philipines,0
+,Single,,,Dubai,0.022935779816513763,Extended,Pakistan,0
+Self-Employed,Single,,M,,0.022935779816513763,Extended,Philipines,
+,,High School or Below,M,Dubai,0.022935779816513763,Extended,Pakistan,
+,Single,Bachelor,M,,0.022935779816513763,,Pakistan,0
+,Single,,M,Dubai,0.022935779816513763,Extended,Other,
+Self-Employed,Single,,,Dubai,0.022935779816513763,,China,0
+Self-Employed,,,,Dubai,0.022935779816513763,Basic,China,0
+,,College,M,,0.022935779816513763,Basic,India,0
+Enterpreneur,,College,M,Dubai,0.022935779816513763,Basic,,
+,,College,M,Dubai,0.022935779816513763,Basic,China,
+,,College,M,Dubai,0.022935779816513763,Basic,Philipines,
+,,College,M,Dubai,0.022935779816513763,Extended,Philipines,
+,,College,M,Dubai,0.022935779816513763,Extended,India,
+Self-Employed,Single,,,Dubai,0.022935779816513763,Extended,Philipines,
+Self-Employed,Single,,,Dubai,0.022935779816513763,Extended,Pakistan,
+Self-Employed,Single,High School or Below,,Dubai,0.022935779816513763,,Philipines,
+Self-Employed,,High School or Below,,Dubai,0.022935779816513763,Basic,Pakistan,
+Self-Employed,Single,,,,0.022935779816513763,Extended,India,0
+Self-Employed,Single,High School or Below,,,0.022935779816513763,,India,0
+Self-Employed,,High School or Below,,,0.022935779816513763,Basic,India,0
+Self-Employed,Single,,,,0.022935779816513763,Extended,Philipines,0
+Self-Employed,Single,,,,0.022935779816513763,Extended,Pakistan,0
+Self-Employed,Single,High School or Below,,,0.022935779816513763,,Philipines,0
+Self-Employed,,High School or Below,,,0.022935779816513763,Basic,Pakistan,0
+Employed,,,M,Dubai,0.022935779816513763,Premium,UAE,
+Employed,Single,College,M,,0.022935779816513763,Basic,,
+Employed,Single,College,,Dubai,0.022935779816513763,Basic,,
+,Single,,M,Dubai,0.022935779816513763,Extended,Philipines,
+,,Bachelor,M,Dubai,0.022935779816513763,Basic,China,
+,,,M,Dubai,0.022935779816513763,Basic,China,0
+Self-Employed,,High School or Below,M,,0.022935779816513763,Basic,Pakistan,
+,Single,,M,Dubai,0.022935779816513763,,China,0
+,,,M,Dubai,0.022935779816513763,Extended,Other,0
+Employed,,High School or Below,M,Dubai,0.022935779816513763,,India,
+,Single,Bachelor,,,0.022935779816513763,Basic,India,0
+Self-Employed,Single,,,Dubai,0.022935779816513763,Extended,India,
+Self-Employed,Single,High School or Below,,Dubai,0.022935779816513763,,India,
+,Divorced,Bachelor,,Dubai,0.022935779816513763,Basic,Pakistan,
+Self-Employed,,High School or Below,,Dubai,0.022935779816513763,Basic,India,
+Employed,Divorced,Bachelor,,Dubai,0.022935779816513763,,Pakistan,
+,Single,Bachelor,,Dubai,0.022935779816513763,,Pakistan,0
+,,Bachelor,,Dubai,0.022935779816513763,Extended,India,0
+Self-Employed,,,,Dubai,0.022935779816513763,Extended,Other,0
+,Single,Bachelor,M,,0.022935779816513763,Basic,Pakistan,
+,Divorced,Bachelor,M,,0.022935779816513763,Basic,Pakistan,
+Employed,Divorced,Bachelor,M,,0.022935779816513763,,Pakistan,
+,Single,Bachelor,M,Dubai,0.022935779816513763,,Pakistan,
+Employed,,Bachelor,M,Dubai,0.022935779816513763,,Pakistan,
+,,College,M,,0.022935779816513763,Basic,Pakistan,0
+Retired,Married,Bachelor,M,Dubai,0.022935779816513763,,,
+Self-Employed,,High School or Below,M,,0.022935779816513763,Basic,India,
+,Married,Bachelor,M,,0.022935779816513763,Basic,India,
+,Married,Bachelor,M,Dubai,0.022935779816513763,,India,
+Self-Employed,,College,,,0.022935779816513763,Basic,India,0
+Self-Employed,Married,,,,0.022935779816513763,Basic,Philipines,0
+Self-Employed,Married,,,,0.022935779816513763,Extended,India,0
+Self-Employed,,College,,,0.022935779816513763,Basic,Pakistan,0
+Self-Employed,Married,,,Dubai,0.022935779816513763,Basic,Philipines,
+Self-Employed,Married,,,Dubai,0.022935779816513763,Basic,India,
+Self-Employed,Married,,M,,0.022935779816513763,Basic,Philipines,
+Self-Employed,Single,Bachelor,M,,0.022935779816513763,,Pakistan,
+Self-Employed,,Bachelor,,Dubai,0.022935779816513763,Extended,India,
+Self-Employed,Single,Bachelor,,Dubai,0.022935779816513763,,Pakistan,
+Self-Employed,Single,Bachelor,,,0.022935779816513763,Basic,India,
+Self-Employed,Married,,M,,0.022935779816513763,Extended,India,
+Self-Employed,Single,Bachelor,,,0.022935779816513763,,Pakistan,0
+Self-Employed,Married,Bachelor,,,0.022935779816513763,,Pakistan,0
+,Married,Bachelor,M,,0.022935779816513763,,India,0
+,Married,Bachelor,M,,0.022935779816513763,,Pakistan,0
+Self-Employed,Married,Bachelor,M,,0.022935779816513763,,Pakistan,
+,Married,Bachelor,M,,0.022935779816513763,Basic,Philipines,
+,Married,,,Dubai,0.022935779816513763,Basic,Philipines,0
+,Married,,,Dubai,0.022935779816513763,Basic,India,0
+,Married,,M,,0.022935779816513763,Basic,Philipines,0
+,Married,,M,,0.022935779816513763,Extended,India,0
+Self-Employed,Single,High School or Below,M,,0.022935779816513763,,India,
+Government,Married,,M,Dubai,0.022935779816513763,Basic,,
+Self-Employed,,College,M,,0.022935779816513763,Basic,India,
+Self-Employed,,College,M,,0.022935779816513763,,China,0
+Enterpreneur,Married,,M,Dubai,0.022935779816513763,,Philipines,
+,Married,High School or Below,M,Dubai,0.022935779816513763,Extended,,
+Self-Employed,,College,M,,0.022935779816513763,Basic,Pakistan,
+,Married,Bachelor,,Dubai,0.022935779816513763,Basic,Pakistan,
+,Married,Bachelor,,Dubai,0.022935779816513763,Basic,Philipines,
+,Married,Bachelor,,Dubai,0.022935779816513763,Basic,India,
+,Married,Bachelor,M,,0.022935779816513763,Basic,Pakistan,
+Self-Employed,Married,Bachelor,,,0.022935779816513763,,India,0
+Enterpreneur,Married,College,M,Dubai,0.022935779816513763,,,
+Self-Employed,,,M,Dubai,0.022935779816513763,Extended,Other,
+Self-Employed,Single,,M,,0.022935779816513763,Extended,India,
+Self-Employed,Married,Bachelor,M,,0.022935779816513763,,India,
+Self-Employed,,Master,M,,0.022935779816513763,,Pakistan,0
+Self-Employed,,,M,Dubai,0.022935779816513763,Basic,China,
+Self-Employed,,Master,M,Dubai,0.022935779816513763,,,0
+Self-Employed,,,M,Dubai,0.022935779816513763,,Other,0
+Self-Employed,Single,,M,Dubai,0.022935779816513763,,China,
+Self-Employed,,,M,Abu Dhabi,0.022935779816513763,Extended,,0
+Employed,Single,High School or Below,M,,0.01834862385321101,,India,
+Employed,Single,,,Dubai,0.01834862385321101,Extended,Pakistan,
+,Single,High School or Below,,Dubai,0.01834862385321101,Basic,Philipines,
+Retired,Married,,M,Dubai,0.01834862385321101,,Philipines,
+Enterpreneur,,Bachelor,M,Dubai,0.01834862385321101,Basic,,
+Employed,Single,Bachelor,M,Dubai,0.01834862385321101,,,
+Retired,Married,Bachelor,,Dubai,0.01834862385321101,Basic,,
+,Married,,M,Abu Dhabi,0.01834862385321101,Extended,,0
+,Married,,M,Dubai,0.01834862385321101,Basic,China,
+,Divorced,Bachelor,M,,0.01834862385321101,Basic,India,
+,Single,High School or Below,,Dubai,0.01834862385321101,,Pakistan,0
+,Single,Bachelor,M,,0.01834862385321101,Extended,India,
+,,Bachelor,M,Dubai,0.01834862385321101,Basic,Other,
+,Married,,M,Dubai,0.01834862385321101,Extended,Philipines,
+,Married,High School or Below,M,Dubai,0.01834862385321101,,India,
+,Single,Bachelor,M,,0.01834862385321101,Basic,Philipines,
+Employed,,Bachelor,M,,0.01834862385321101,Basic,Pakistan,
+,Single,,,Dubai,0.01834862385321101,Basic,China,0
+,Married,Bachelor,,,0.01834862385321101,Basic,India,0
+,,High School or Below,,Dubai,0.01834862385321101,Basic,Philipines,0
+Retired,Divorced,,M,Dubai,0.01834862385321101,,Pakistan,
+,Married,Bachelor,,Dubai,0.01834862385321101,,Pakistan,0
+,Single,Bachelor,,Dubai,0.01834862385321101,Extended,India,
+,Married,,M,Abu Dhabi,0.01834862385321101,,Pakistan,0
+,,Bachelor,M,Dubai,0.01834862385321101,Extended,Other,
+Enterpreneur,Single,High School or Below,,Dubai,0.01834862385321101,Basic,,
+,,College,,Dubai,0.01834862385321101,Basic,India,0
+Employed,,College,M,Dubai,0.01834862385321101,,Pakistan,
+Government,,College,M,Dubai,0.01834862385321101,Basic,,
+,Divorced,College,M,Dubai,0.01834862385321101,Basic,,
+Enterpreneur,Married,High School or Below,,Dubai,0.01834862385321101,Basic,,
+,Single,College,M,,0.01834862385321101,Extended,,0
+,Single,College,M,,0.01834862385321101,,Philipines,0
+,Single,College,M,,0.01834862385321101,,Pakistan,0
+Enterpreneur,Married,,,Dubai,0.01834862385321101,Basic,Philipines,
+Employed,Single,College,M,,0.01834862385321101,Extended,,
+,Single,College,M,,0.01834862385321101,Basic,Philipines,
+Employed,Single,High School or Below,,,0.01834862385321101,Basic,India,
+,Single,College,,Dubai,0.01834862385321101,Extended,,0
+,Single,Bachelor,M,Dubai,0.01834862385321101,,Philipines,
+,Single,College,,Dubai,0.01834862385321101,,Philipines,0
+,Single,College,,Dubai,0.01834862385321101,,Pakistan,0
+,,College,,Dubai,0.01834862385321101,Basic,Pakistan,0
+Employed,Single,College,,Dubai,0.01834862385321101,Extended,,
+,Single,College,,Dubai,0.01834862385321101,Basic,Philipines,
+Enterpreneur,Married,High School or Below,M,,0.01834862385321101,Basic,,
+Enterpreneur,Married,,M,,0.01834862385321101,Basic,Philipines,
+,Married,High School or Below,M,,0.01834862385321101,,Pakistan,0
+,Single,High School or Below,,,0.01834862385321101,Basic,India,0
+,Married,High School or Below,M,,0.01834862385321101,Extended,,0
+,Divorced,Bachelor,M,Dubai,0.01834862385321101,,,0
+,Divorced,Bachelor,,Dubai,0.01834862385321101,Basic,India,
+Enterpreneur,,High School or Below,,Dubai,0.01834862385321101,Basic,India,
+,Married,Bachelor,,Dubai,0.01834862385321101,,India,0
+,Single,,M,Dubai,0.01834862385321101,Basic,Other,
+,Single,High School or Below,M,,0.01834862385321101,,Pakistan,0
+Self-Employed,Married,,,Abu Dhabi,0.01834862385321101,,Pakistan,0
+Self-Employed,Married,,,Abu Dhabi,0.01834862385321101,Extended,,0
+,Single,,M,,0.01834862385321101,Basic,China,0
+Self-Employed,Married,High School or Below,M,,0.01834862385321101,,Pakistan,
+Self-Employed,Married,High School or Below,M,,0.01834862385321101,Extended,,
+,,High School or Below,M,,0.01834862385321101,Basic,Philipines,0
+Self-Employed,Married,College,M,,0.01834862385321101,Basic,,
+Self-Employed,Married,,M,Sharjah,0.01834862385321101,,,0
+Employed,Single,,M,Dubai,0.01834862385321101,,Other,
+Self-Employed,Married,College,,,0.01834862385321101,,India,0
+,,High School or Below,M,,0.01834862385321101,Extended,Pakistan,0
+Enterpreneur,Single,,,Dubai,0.01834862385321101,Basic,India,
+Enterpreneur,Single,,M,,0.01834862385321101,Basic,India,
+Self-Employed,Married,,M,Abu Dhabi,0.01834862385321101,,Pakistan,
+Self-Employed,Married,,M,Abu Dhabi,0.01834862385321101,Extended,,
+Employed,Divorced,High School or Below,M,Dubai,0.01834862385321101,,,
+Self-Employed,Married,College,,,0.01834862385321101,Basic,,0
+,Divorced,High School or Below,M,Dubai,0.01834862385321101,Basic,,
+Enterpreneur,Single,High School or Below,M,Dubai,0.01834862385321101,,,
+Self-Employed,Married,Bachelor,,,0.01834862385321101,Basic,India,
+Enterpreneur,,High School or Below,M,,0.01834862385321101,Basic,India,
+Self-Employed,Married,Bachelor,,Dubai,0.01834862385321101,,Pakistan,
+Self-Employed,Married,Bachelor,,Dubai,0.01834862385321101,,India,
+,,High School or Below,M,Dubai,0.01834862385321101,Extended,Other,
+Self-Employed,Married,College,M,,0.01834862385321101,,India,
+,,High School or Below,M,Dubai,0.01834862385321101,Extended,Philipines,
+,Divorced,,M,Dubai,0.01834862385321101,Basic,,0
+Employed,Single,High School or Below,,Dubai,0.01834862385321101,,India,
+,Single,Bachelor,,Dubai,0.01834862385321101,Basic,Philipines,
+Employed,,Bachelor,,Dubai,0.01834862385321101,Basic,Pakistan,
+,Single,Bachelor,,Dubai,0.01834862385321101,Basic,Pakistan,
+,Single,Bachelor,,,0.01834862385321101,Extended,India,0
+Enterpreneur,Single,High School or Below,M,,0.01834862385321101,Basic,,
+,Single,Bachelor,,,0.01834862385321101,Basic,Pakistan,0
+Employed,Divorced,Bachelor,,,0.01834862385321101,Basic,Pakistan,
+Employed,Single,,M,Dubai,0.01834862385321101,Premium,,
+,Single,High School or Below,M,,0.01834862385321101,Basic,Philipines,
+,,Master,M,Dubai,0.01834862385321101,,Pakistan,0
+,Married,College,M,,0.01834862385321101,Basic,,0
+,Divorced,,M,Dubai,0.01834862385321101,Extended,India,
+Employed,,,M,Dubai,0.01834862385321101,Extended,India,
+,Married,College,M,,0.01834862385321101,,India,0
+Enterpreneur,,High School or Below,M,Dubai,0.01834862385321101,,India,
+,Divorced,College,M,Dubai,0.01834862385321101,Extended,,
+Enterpreneur,Single,,M,Dubai,0.01834862385321101,,India,
+,Married,College,M,Dubai,0.01834862385321101,,India,
+,Married,,M,Dubai,0.01834862385321101,Premium,UAE,
+Self-Employed,Married,High School or Below,,,0.01834862385321101,,Pakistan,0
+Employed,Single,,M,,0.01834862385321101,Extended,Pakistan,
+Self-Employed,Married,High School or Below,,,0.01834862385321101,Extended,,0
+,Single,College,M,Dubai,0.01834862385321101,,China,
+Enterpreneur,Married,High School or Below,M,Dubai,0.01834862385321101,,,
+Self-Employed,Single,College,,Dubai,0.01834862385321101,Extended,,
+Self-Employed,,High School or Below,,,0.01834862385321101,Basic,Philipines,0
+Self-Employed,Divorced,,M,Dubai,0.01834862385321101,Basic,,
+,,College,M,Dubai,0.01834862385321101,,China,0
+Employed,Single,,,Dubai,0.01834862385321101,Premium,UAE,
+Self-Employed,Divorced,,M,,0.01834862385321101,Basic,,0
+Self-Employed,Single,College,,Dubai,0.01834862385321101,,Pakistan,
+Self-Employed,,High School or Below,,,0.01834862385321101,Extended,Pakistan,0
+Self-Employed,Single,College,,,0.01834862385321101,,Pakistan,0
+Retired,Married,Bachelor,M,,0.01834862385321101,Basic,,
+Employed,Single,,M,Dubai,0.01834862385321101,,UAE,
+Self-Employed,,College,M,Dubai,0.01834862385321101,,China,
+Self-Employed,Divorced,Bachelor,M,Dubai,0.01834862385321101,,,
+Self-Employed,Single,College,,Dubai,0.01834862385321101,,Philipines,
+Self-Employed,,Master,,Dubai,0.01834862385321101,,Pakistan,0
+Self-Employed,Single,College,,,0.01834862385321101,,Philipines,0
+Self-Employed,Single,,,,0.01834862385321101,Basic,China,0
+Self-Employed,Single,High School or Below,,,0.01834862385321101,,Pakistan,0
+Self-Employed,Divorced,,,Dubai,0.01834862385321101,Basic,,0
+,Divorced,College,M,Dubai,0.01834862385321101,,India,
+Self-Employed,Single,College,M,,0.01834862385321101,,Pakistan,
+Self-Employed,,Master,M,Dubai,0.01834862385321101,,Pakistan,
+Self-Employed,,High School or Below,M,,0.01834862385321101,Extended,Pakistan,
+Self-Employed,,College,,Dubai,0.01834862385321101,,China,0
+Self-Employed,,High School or Below,M,,0.01834862385321101,Basic,Philipines,
+Self-Employed,,College,,Dubai,0.01834862385321101,Basic,India,
+Self-Employed,Divorced,Bachelor,M,,0.01834862385321101,,,0
+Self-Employed,Single,,M,,0.01834862385321101,Basic,China,
+Self-Employed,Divorced,Bachelor,,Dubai,0.01834862385321101,,,0
+Self-Employed,Single,High School or Below,,,0.01834862385321101,Basic,India,
+Self-Employed,,College,,Dubai,0.01834862385321101,Basic,Pakistan,
+Self-Employed,Single,Bachelor,,,0.01834862385321101,Basic,Pakistan,
+Self-Employed,,,M,,0.01834862385321101,Extended,China,0
+Self-Employed,Divorced,,M,,0.01834862385321101,,India,0
+Self-Employed,Divorced,,M,,0.01834862385321101,Extended,,0
+Self-Employed,Single,High School or Below,,Dubai,0.01834862385321101,,Pakistan,
+Self-Employed,,,M,Sharjah,0.01834862385321101,,India,0
+,Divorced,,M,Dubai,0.01834862385321101,Premium,UAE,
+Employed,Single,,M,,0.01834862385321101,Premium,UAE,
+Self-Employed,Single,,,Dubai,0.01834862385321101,Basic,China,
+Self-Employed,Single,College,,,0.01834862385321101,Extended,,0
+Self-Employed,,,M,Abu Dhabi,0.01834862385321101,,Pakistan,0
+Self-Employed,Single,Bachelor,,,0.01834862385321101,Extended,India,
+Self-Employed,Single,College,M,,0.01834862385321101,Extended,,
+Self-Employed,Single,High School or Below,M,,0.01834862385321101,,Pakistan,
+Self-Employed,,High School or Below,,Dubai,0.01834862385321101,Basic,Philipines,
+Self-Employed,Single,College,M,,0.01834862385321101,,Philipines,
+Self-Employed,Single,,,Dubai,0.013761467889908258,,Other,0
+Employed,Divorced,,M,Dubai,0.013761467889908258,,China,
+Self-Employed,Married,,M,,0.013761467889908258,,Other,0
+Self-Employed,Divorced,,,Dubai,0.013761467889908258,Extended,,0
+,Divorced,,M,Dubai,0.013761467889908258,Basic,Philipines,
+Employed,,High School or Below,M,Dubai,0.013761467889908258,,Philipines,
+,Divorced,High School or Below,M,Dubai,0.013761467889908258,,Pakistan,
+,,High School or Below,M,Dubai,0.013761467889908258,Basic,China,
+,Divorced,,M,Dubai,0.013761467889908258,Basic,China,
+,Divorced,,M,Dubai,0.013761467889908258,Basic,Other,
+Self-Employed,Married,,,Dubai,0.013761467889908258,Extended,India,
+Self-Employed,Married,,M,,0.013761467889908258,,China,0
+Self-Employed,Married,,M,Sharjah,0.013761467889908258,,India,
+Self-Employed,Married,,M,,0.013761467889908258,Extended,Other,
+Self-Employed,,Bachelor,M,,0.013761467889908258,Extended,Pakistan,
+Self-Employed,Married,,M,Sharjah,0.013761467889908258,Extended,,
+Employed,,High School or Below,M,Dubai,0.013761467889908258,,Other,
+Employed,,,M,Dubai,0.013761467889908258,Basic,Other,
+Enterpreneur,,,M,Dubai,0.013761467889908258,Basic,China,
+,,High School or Below,M,Dubai,0.013761467889908258,Basic,Other,
+Self-Employed,Single,Bachelor,M,,0.013761467889908258,,Philipines,
+Self-Employed,Single,Bachelor,,Dubai,0.013761467889908258,,Philipines,
+Employed,,High School or Below,,Dubai,0.013761467889908258,Basic,,25927
+Employed,Divorced,,M,Dubai,0.013761467889908258,,Philipines,
+Self-Employed,Married,,,Dubai,0.013761467889908258,Extended,Pakistan,
+,Married,High School or Below,M,,0.013761467889908258,Premium,UAE,
+,Married,,,Dubai,0.013761467889908258,Premium,UAE,0
+,Married,High School or Below,,Dubai,0.013761467889908258,Premium,UAE,
+,Married,High School or Below,,,0.013761467889908258,Premium,UAE,0
+,Married,,M,Dubai,0.013761467889908258,,UAE,0
+,Divorced,,M,Dubai,0.013761467889908258,Extended,,0
+,Married,High School or Below,M,Dubai,0.013761467889908258,,UAE,
+,Married,High School or Below,M,,0.013761467889908258,,UAE,0
+,,,M,Dubai,0.013761467889908258,Extended,China,0
+,Married,High School or Below,,Dubai,0.013761467889908258,,UAE,0
+,Married,College,M,Dubai,0.013761467889908258,,Philipines,
+,Married,College,M,Dubai,0.013761467889908258,,China,
+,Married,College,M,Dubai,0.013761467889908258,,Pakistan,
+,Married,College,M,Abu Dhabi,0.013761467889908258,,,0
+Self-Employed,,College,,,0.013761467889908258,Extended,China,0
+,Married,,M,,0.013761467889908258,Premium,UAE,0
+,Single,,M,Dubai,0.013761467889908258,,Other,0
+Self-Employed,,College,,,0.013761467889908258,Basic,Philipines,0
+Self-Employed,Married,,,Abu Dhabi,0.013761467889908258,Extended,Pakistan,
+Employed,,High School or Below,M,Dubai,0.013761467889908258,Extended,,
+Self-Employed,Married,High School or Below,,Dubai,0.013761467889908258,Extended,,
+,Divorced,High School or Below,M,Dubai,0.013761467889908258,Extended,,
+Employed,,High School or Below,M,Dubai,0.013761467889908258,,Pakistan,
+Self-Employed,Married,High School or Below,,Dubai,0.013761467889908258,,Pakistan,
+Self-Employed,Single,College,,,0.013761467889908258,Basic,Pakistan,
+Employed,,,M,Dubai,0.013761467889908258,Extended,Other,
+Self-Employed,Single,College,,,0.013761467889908258,,China,0
+Self-Employed,,High School or Below,,Dubai,0.013761467889908258,Extended,Philipines,
+Self-Employed,Single,,,Dubai,0.013761467889908258,Extended,Other,
+Self-Employed,Married,,,Sharjah,0.013761467889908258,,India,0
+Self-Employed,Married,,,,0.013761467889908258,Extended,Other,0
+Self-Employed,Married,,,Sharjah,0.013761467889908258,Extended,,0
+Self-Employed,,High School or Below,,Dubai,0.013761467889908258,Extended,Pakistan,
+Self-Employed,,Bachelor,,,0.013761467889908258,Extended,Pakistan,0
+Self-Employed,Married,,M,Dubai,0.013761467889908258,Premium,,
+Self-Employed,Single,Bachelor,,,0.013761467889908258,,Philipines,0
+Self-Employed,Married,,,,0.013761467889908258,Premium,UAE,0
+,Single,,,Dubai,0.013761467889908258,Extended,Other,0
+Retired,,,M,Dubai,0.013761467889908258,Basic,Pakistan,
+,,High School or Below,,Dubai,0.013761467889908258,Extended,Philipines,0
+Retired,Divorced,,M,Dubai,0.013761467889908258,Basic,,
+Retired,Single,,M,Dubai,0.013761467889908258,Basic,,
+Self-Employed,Single,,M,Dubai,0.013761467889908258,,Other,
+Self-Employed,Married,,M,,0.013761467889908258,Premium,UAE,
+Self-Employed,Married,,,Dubai,0.013761467889908258,Premium,UAE,
+Self-Employed,Married,High School or Below,,,0.013761467889908258,Premium,UAE,
+Self-Employed,Married,Master,M,,0.013761467889908258,,,0
+Self-Employed,Married,,M,Dubai,0.013761467889908258,,UAE,
+Self-Employed,Married,,M,,0.013761467889908258,,UAE,0
+Employed,Single,Doctor,,Dubai,0.013761467889908258,Basic,,
+Self-Employed,Married,High School or Below,M,,0.013761467889908258,,UAE,
+Employed,Divorced,High School or Below,M,,0.013761467889908258,Basic,,
+,Single,High School or Below,M,,0.013761467889908258,Basic,Pakistan,
+Self-Employed,Married,,,Dubai,0.013761467889908258,,UAE,0
+,Single,High School or Below,M,,0.013761467889908258,Basic,Other,
+,,High School or Below,,Dubai,0.013761467889908258,Extended,Pakistan,0
+Self-Employed,Single,,M,,0.013761467889908258,,Other,0
+Retired,,,M,Dubai,0.013761467889908258,Basic,Philipines,
+Retired,,High School or Below,M,Dubai,0.013761467889908258,Extended,,
+Self-Employed,,,M,Sharjah,0.013761467889908258,Extended,,0
+Employed,Divorced,High School or Below,,Dubai,0.013761467889908258,Basic,,
+,Single,High School or Below,,Dubai,0.013761467889908258,Basic,Pakistan,
+,Single,High School or Below,,Dubai,0.013761467889908258,Basic,Other,
+Employed,Divorced,,,Dubai,0.013761467889908258,Basic,China,
+Retired,Married,High School or Below,M,Dubai,0.013761467889908258,,,
+Self-Employed,,,M,Abu Dhabi,0.013761467889908258,Extended,Pakistan,
+Employed,,High School or Below,,Dubai,0.013761467889908258,Basic,Philipines,
+,Single,High School or Below,,Dubai,0.013761467889908258,Extended,Pakistan,
+,Single,High School or Below,,Dubai,0.013761467889908258,Extended,Philipines,
+Retired,Married,,M,,0.013761467889908258,Basic,Philipines,
+Retired,Married,,,Dubai,0.013761467889908258,Basic,Philipines,
+Retired,,,M,Dubai,0.013761467889908258,Basic,India,
+Self-Employed,Divorced,Master,M,,0.013761467889908258,Extended,,
+Self-Employed,,Master,M,,0.013761467889908258,Extended,Pakistan,
+Retired,Divorced,,M,Dubai,0.013761467889908258,Extended,,
+Self-Employed,Divorced,Master,M,,0.013761467889908258,,,0
+Employed,Divorced,,M,,0.013761467889908258,Basic,China,
+Self-Employed,Married,High School or Below,,Dubai,0.013761467889908258,,UAE,
+Self-Employed,,High School or Below,M,,0.013761467889908258,Extended,Philipines,
+Self-Employed,Divorced,,,Dubai,0.013761467889908258,Premium,,0
+Self-Employed,Divorced,,M,,0.013761467889908258,Premium,,0
+,,,M,Abu Dhabi,0.013761467889908258,Extended,Pakistan,0
+,Divorced,Master,M,,0.013761467889908258,Extended,,0
+,,Master,M,,0.013761467889908258,Extended,Pakistan,0
+Employed,Single,Doctor,M,,0.013761467889908258,Basic,,
+Self-Employed,,High School or Below,M,Dubai,0.013761467889908258,Premium,,
+Self-Employed,Married,Bachelor,,,0.013761467889908258,Extended,,0
+Self-Employed,Divorced,,M,Dubai,0.013761467889908258,Premium,,
+Self-Employed,Married,Bachelor,,,0.013761467889908258,Basic,Pakistan,
+,Married,College,M,,0.013761467889908258,Extended,India,
+Self-Employed,Married,,M,,0.013761467889908258,Premium,,0
+Self-Employed,Married,High School or Below,M,,0.013761467889908258,Premium,,
+Self-Employed,Single,Bachelor,,,0.013761467889908258,Basic,Philipines,
+Self-Employed,,,,Dubai,0.013761467889908258,Extended,China,0
+Self-Employed,Married,,,Dubai,0.013761467889908258,Premium,,0
+Self-Employed,Married,High School or Below,,Dubai,0.013761467889908258,Premium,,
+Self-Employed,Married,High School or Below,,,0.013761467889908258,Premium,,0
+Self-Employed,,High School or Below,M,,0.013761467889908258,Premium,,0
+Self-Employed,Divorced,,,Dubai,0.013761467889908258,,India,0
+Employed,,High School or Below,M,,0.013761467889908258,Basic,Philipines,
+Self-Employed,Married,Bachelor,M,,0.013761467889908258,Extended,,
+Self-Employed,Divorced,,M,Dubai,0.013761467889908258,Extended,,
+,Single,High School or Below,M,,0.013761467889908258,Extended,Pakistan,
+,Single,High School or Below,M,,0.013761467889908258,Extended,Philipines,
+Self-Employed,Married,High School or Below,,,0.013761467889908258,,UAE,0
+Self-Employed,Married,College,M,Abu Dhabi,0.013761467889908258,,,
+Self-Employed,Single,,M,,0.013761467889908258,Extended,Other,
+Self-Employed,,,M,Dubai,0.013761467889908258,Extended,China,
+Self-Employed,Married,College,M,,0.013761467889908258,,Pakistan,
+Self-Employed,Divorced,,M,Dubai,0.013761467889908258,,India,
+Self-Employed,Married,College,,Abu Dhabi,0.013761467889908258,,,0
+,Single,,M,,0.013761467889908258,Extended,Other,0
+Self-Employed,Married,College,,,0.013761467889908258,Extended,India,
+,,High School or Below,M,,0.013761467889908258,Extended,Philipines,0
+Self-Employed,Married,College,,,0.013761467889908258,,Pakistan,0
+Self-Employed,,Master,M,Dubai,0.013761467889908258,Extended,,
+Self-Employed,,Master,,Dubai,0.013761467889908258,Extended,,0
+Self-Employed,,High School or Below,,Dubai,0.013761467889908258,Premium,,0
+Self-Employed,,College,,,0.013761467889908258,Extended,Philipines,0
+,,Master,M,Dubai,0.013761467889908258,Extended,Pakistan,
+,Married,College,M,,0.013761467889908258,Basic,India,
+Employed,,College,,Dubai,0.013761467889908258,Basic,India,
+Self-Employed,,High School or Below,M,,0.013761467889908258,,UAE,0
+Self-Employed,Divorced,,M,,0.013761467889908258,,UAE,0
+,Single,College,,Dubai,0.013761467889908258,,China,0
+,,College,,Dubai,0.013761467889908258,Basic,Philipines,0
+Self-Employed,,High School or Below,M,Dubai,0.013761467889908258,,UAE,
+,,College,,Dubai,0.013761467889908258,Extended,Philipines,0
+,Married,High School or Below,,Dubai,0.013761467889908258,Extended,,0
+Enterpreneur,,College,,Dubai,0.013761467889908258,Basic,India,
+Employed,Single,College,,Dubai,0.013761467889908258,,India,
+,Single,High School or Below,,Dubai,0.013761467889908258,Premium,UAE,
+,Divorced,College,,Dubai,0.013761467889908258,Basic,India,
+Employed,Divorced,College,,Dubai,0.013761467889908258,,India,
+Employed,,College,,Dubai,0.013761467889908258,Extended,India,
+Self-Employed,Divorced,,M,Dubai,0.013761467889908258,,UAE,
+,Single,College,,Dubai,0.013761467889908258,,India,0
+Enterpreneur,,College,M,Dubai,0.013761467889908258,,India,
+Employed,Divorced,College,M,,0.013761467889908258,Basic,,
+,Married,High School or Below,,Dubai,0.013761467889908258,,Pakistan,0
+,Married,,,Dubai,0.013761467889908258,Extended,Pakistan,0
+Employed,,College,,Dubai,0.013761467889908258,Extended,Pakistan,
+,Single,College,,Dubai,0.013761467889908258,Extended,Pakistan,
+Employed,Divorced,College,,Dubai,0.013761467889908258,Extended,,
+,Married,,M,,0.013761467889908258,Extended,Other,0
+,Married,,M,Sharjah,0.013761467889908258,Extended,,0
+,Divorced,,M,Dubai,0.013761467889908258,,UAE,0
+,,High School or Below,M,Dubai,0.013761467889908258,,UAE,0
+Self-Employed,Divorced,College,M,Dubai,0.013761467889908258,,,
+,Single,High School or Below,M,Dubai,0.013761467889908258,,UAE,
+Government,Married,,M,,0.013761467889908258,Basic,Pakistan,
+,Married,,,Dubai,0.013761467889908258,Extended,India,0
+,Single,College,,,0.013761467889908258,Basic,Pakistan,0
+,Single,College,,,0.013761467889908258,Basic,India,0
+,Married,High School or Below,,Dubai,0.013761467889908258,Basic,India,
+Employed,Divorced,College,,Dubai,0.013761467889908258,Basic,,
+Enterpreneur,Married,,,Dubai,0.013761467889908258,Basic,India,
+Government,,College,,Dubai,0.013761467889908258,Basic,Pakistan,
+,Single,College,,Dubai,0.013761467889908258,Basic,China,
+Self-Employed,,High School or Below,,Dubai,0.013761467889908258,,UAE,0
+Self-Employed,Divorced,,,Dubai,0.013761467889908258,,UAE,0
+Government,,College,M,,0.013761467889908258,Basic,Pakistan,
+,Single,College,M,,0.013761467889908258,Basic,China,
+Self-Employed,,High School or Below,,,0.013761467889908258,Premium,UAE,0
+,Single,College,M,,0.013761467889908258,,India,0
+Employed,,High School or Below,M,Dubai,0.013761467889908258,,,25927
+,Single,High School or Below,M,Dubai,0.013761467889908258,,,25927
+,,High School or Below,M,Dubai,0.013761467889908258,Basic,,25927
+Employed,Single,,M,Dubai,0.013761467889908258,,,25927
+Self-Employed,Divorced,,M,,0.013761467889908258,Premium,UAE,
+Employed,,,M,Dubai,0.013761467889908258,Basic,,25927
+Employed,Single,High School or Below,,,0.013761467889908258,Basic,,25927
+,Single,,M,Dubai,0.013761467889908258,Basic,,25927
+Employed,Single,High School or Below,M,,0.013761467889908258,,,25927
+Employed,Single,,,Dubai,0.013761467889908258,Basic,,25927
+,Divorced,College,M,Dubai,0.013761467889908258,,Pakistan,
+Government,,College,M,Dubai,0.013761467889908258,,Pakistan,
+Employed,,High School or Below,M,,0.013761467889908258,Basic,,25927
+,Single,High School or Below,,Dubai,0.013761467889908258,Basic,,25927
+,Single,High School or Below,M,,0.013761467889908258,Basic,,25927
+Employed,Single,,M,,0.013761467889908258,Basic,,25927
+Employed,,College,M,Dubai,0.013761467889908258,,Philipines,
+,,College,M,,0.013761467889908258,Extended,India,0
+,Married,,,Abu Dhabi,0.013761467889908258,Extended,Pakistan,0
+Self-Employed,Divorced,,,,0.013761467889908258,Premium,UAE,0
+Employed,,College,M,,0.013761467889908258,Extended,India,
+Employed,Divorced,College,M,,0.013761467889908258,Extended,,
+,Single,College,M,,0.013761467889908258,Extended,Pakistan,
+Employed,,College,M,,0.013761467889908258,Extended,Pakistan,
+Self-Employed,,High School or Below,,Dubai,0.013761467889908258,Premium,UAE,
+Government,Married,,,Dubai,0.013761467889908258,Basic,Pakistan,
+Self-Employed,Divorced,,,Dubai,0.013761467889908258,Premium,UAE,
+,Single,College,M,,0.013761467889908258,,China,0
+,,College,M,,0.013761467889908258,Basic,Philipines,0
+Self-Employed,,High School or Below,M,,0.013761467889908258,Premium,UAE,
+,,College,M,,0.013761467889908258,Extended,China,0
+,,College,M,,0.013761467889908258,Extended,Philipines,0
+,Divorced,College,M,Dubai,0.013761467889908258,,,0
+Enterpreneur,,College,M,,0.013761467889908258,Basic,India,
+Employed,,College,M,,0.013761467889908258,Basic,India,
+Employed,Single,College,M,,0.013761467889908258,,India,
+,Divorced,College,M,,0.013761467889908258,Basic,India,
+Employed,Divorced,College,M,,0.013761467889908258,,India,
+Enterpreneur,Married,,M,,0.013761467889908258,Basic,India,
+,,Bachelor,M,Dubai,0.013761467889908258,Extended,Pakistan,
+,Married,College,M,,0.013761467889908258,,Pakistan,0
+Self-Employed,Single,College,,Dubai,0.013761467889908258,,China,
+Employed,Single,Bachelor,,,0.013761467889908258,Basic,India,
+Employed,Divorced,Bachelor,,,0.013761467889908258,Basic,India,
+Self-Employed,,High School or Below,,,0.013761467889908258,Extended,Philipines,0
+Employed,Single,Bachelor,,Dubai,0.013761467889908258,Basic,,
+,Married,Bachelor,M,Dubai,0.013761467889908258,Extended,,
+Self-Employed,Single,,,,0.013761467889908258,Extended,Other,0
+Enterpreneur,Married,Bachelor,M,Dubai,0.013761467889908258,,,
+,Divorced,Bachelor,,Dubai,0.013761467889908258,Basic,Other,
+Enterpreneur,,Bachelor,,Dubai,0.013761467889908258,Basic,Philipines,
+,Divorced,Bachelor,M,Dubai,0.013761467889908258,Extended,,
+,Single,Bachelor,,Dubai,0.013761467889908258,Extended,Other,
+Self-Employed,,College,,Dubai,0.013761467889908258,Basic,Philipines,
+,Married,Bachelor,M,,0.013761467889908258,Extended,,0
+,Single,Bachelor,,Dubai,0.013761467889908258,,Philipines,0
+Employed,Single,Bachelor,,Dubai,0.013761467889908258,,India,
+Self-Employed,,College,,Dubai,0.013761467889908258,Extended,Philipines,
+Employed,Divorced,Bachelor,,Dubai,0.013761467889908258,,India,
+Self-Employed,Divorced,College,,Dubai,0.013761467889908258,,,0
+,Single,Bachelor,,,0.013761467889908258,Basic,Philipines,0
+Self-Employed,,College,,,0.013761467889908258,Extended,India,0
+,Divorced,,M,Dubai,0.013761467889908258,Premium,,0
+,,High School or Below,M,Dubai,0.013761467889908258,Premium,,0
+Self-Employed,Single,College,,,0.013761467889908258,Basic,India,
+Self-Employed,,Master,,,0.013761467889908258,Extended,Pakistan,0
+Self-Employed,Divorced,Master,,,0.013761467889908258,Extended,,0
+,Married,College,M,,0.013761467889908258,Basic,Pakistan,
+Enterpreneur,Married,College,M,,0.013761467889908258,Basic,,
+,Divorced,,M,Dubai,0.013761467889908258,,India,0
+Enterpreneur,Married,College,,Dubai,0.013761467889908258,Basic,,
+,Single,Master,M,Dubai,0.013761467889908258,,Pakistan,
+Employed,Single,High School or Below,,Dubai,0.013761467889908258,,,25927
+Self-Employed,,,,Abu Dhabi,0.013761467889908258,Extended,Pakistan,0
+,,Master,M,Dubai,0.013761467889908258,Extended,,0
+,Single,Doctor,M,Dubai,0.013761467889908258,Basic,,
+Employed,,Doctor,M,Dubai,0.013761467889908258,Basic,,
+Employed,Single,Doctor,M,Dubai,0.013761467889908258,,,
+Self-Employed,Single,College,,,0.013761467889908258,,India,0
+,Single,High School or Below,M,Dubai,0.013761467889908258,Premium,,
+,Married,College,,,0.013761467889908258,Extended,India,0
+Self-Employed,Single,High School or Below,,,0.013761467889908258,Extended,Philipines,
+Enterpreneur,Single,Bachelor,M,,0.013761467889908258,Basic,,
+Employed,Single,Bachelor,M,,0.013761467889908258,Basic,,
+Self-Employed,,College,M,,0.013761467889908258,Extended,Philipines,
+Self-Employed,Single,College,M,,0.013761467889908258,,India,
+Government,Married,,M,Dubai,0.013761467889908258,,Pakistan,
+,Divorced,,M,,0.013761467889908258,Premium,UAE,0
+,Married,High School or Below,M,Dubai,0.013761467889908258,,Pakistan,
+,,High School or Below,M,,0.013761467889908258,Premium,UAE,0
+Government,,Bachelor,M,Dubai,0.013761467889908258,Basic,,
+Self-Employed,,College,M,,0.013761467889908258,Extended,India,
+,Single,High School or Below,M,,0.013761467889908258,Premium,UAE,
+,Married,,M,Abu Dhabi,0.013761467889908258,Extended,Pakistan,
+,Divorced,,,Dubai,0.013761467889908258,Premium,UAE,0
+,Single,Bachelor,M,Dubai,0.013761467889908258,,Other,
+,Divorced,Bachelor,M,Dubai,0.013761467889908258,,Other,
+,,High School or Below,,Dubai,0.013761467889908258,Premium,UAE,0
+,Married,,M,Sharjah,0.013761467889908258,,India,0
+Self-Employed,,College,M,Abu Dhabi,0.013761467889908258,,,0
+Enterpreneur,,Bachelor,M,Dubai,0.013761467889908258,,Philipines,
+,Married,High School or Below,M,,0.013761467889908258,Basic,India,
+Self-Employed,Divorced,College,M,,0.013761467889908258,,,0
+,Married,,M,Dubai,0.013761467889908258,Extended,Pakistan,
+Self-Employed,Single,College,,Dubai,0.013761467889908258,,India,
+Self-Employed,,College,M,,0.013761467889908258,Extended,China,
+,Married,Bachelor,,,0.013761467889908258,Basic,Pakistan,0
+,Married,,M,Dubai,0.013761467889908258,Premium,,0
+,Married,High School or Below,M,Dubai,0.013761467889908258,Premium,,
+,Divorced,Bachelor,M,,0.013761467889908258,Basic,Other,
+Self-Employed,Single,College,M,,0.013761467889908258,,China,
+Enterpreneur,,Bachelor,M,,0.013761467889908258,Basic,Philipines,
+,Single,Bachelor,M,,0.013761467889908258,Extended,Other,
+,Married,High School or Below,M,,0.013761467889908258,Premium,,0
+,Married,High School or Below,,Dubai,0.013761467889908258,Premium,,0
+,Married,,M,Dubai,0.013761467889908258,Extended,India,
+Self-Employed,,College,M,,0.013761467889908258,Basic,Philipines,
+,Single,Bachelor,M,,0.013761467889908258,,Philipines,0
+Enterpreneur,Married,,M,Dubai,0.013761467889908258,,India,
+,,Bachelor,M,,0.013761467889908258,Extended,Pakistan,0
+,Married,,M,Dubai,0.013761467889908258,Extended,Other,
+Employed,Single,Bachelor,M,,0.013761467889908258,,India,
+Employed,Divorced,Bachelor,M,,0.013761467889908258,,India,
+,Single,High School or Below,,,0.013761467889908258,Extended,Philipines,0

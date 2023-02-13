@@ -1,0 +1,558 @@
+Education,Coverage,Emirate,Marital Status,Country,support,Occupation,Gender
+,Basic,Dubai,Married,,0.13399503722084366,Employed,M
+,Basic,Abu Dhabi,Married,,0.10918114143920596,Employed,F
+High School or Below,,Dubai,Married,,0.0967741935483871,Employed,M
+,Basic,Sharjah,Married,,0.08933002481389578,Employed,F
+,Extended,Dubai,Married,,0.08933002481389578,Employed,M
+High School or Below,Basic,,Married,,0.08188585607940446,Employed,M
+Bachelor,Basic,,Married,,0.08188585607940446,Employed,M
+,,Dubai,Married,Pakistan,0.0794044665012407,Employed,M
+,Basic,,Married,India,0.07692307692307693,Employed,M
+,Basic,,Married,Pakistan,0.07444168734491315,Employed,F
+Bachelor,,Dubai,Married,,0.07196029776674938,Employed,M
+,,Dubai,Married,India,0.06699751861042183,Employed,M
+,Basic,,Married,Pakistan,0.06451612903225806,Employed,M
+Bachelor,Basic,,Married,,0.062034739454094295,Employed,F
+College,Basic,,Married,,0.05955334987593052,Employed,F
+High School or Below,Extended,,Married,,0.05707196029776675,Employed,M
+,Extended,Sharjah,Married,,0.05707196029776675,Employed,F
+,,Abu Dhabi,Married,Pakistan,0.05707196029776675,Employed,F
+Bachelor,Basic,Abu Dhabi,Married,,0.05459057071960298,Employed,
+,Basic,Sharjah,Married,,0.05459057071960298,Employed,M
+,Basic,Abu Dhabi,Married,Pakistan,0.05459057071960298,Employed,
+,Basic,Abu Dhabi,,Pakistan,0.05459057071960298,Employed,F
+Bachelor,Basic,,Married,India,0.05459057071960298,Employed,
+High School or Below,,,Married,Pakistan,0.052109181141439205,Employed,M
+High School or Below,Basic,,,Pakistan,0.052109181141439205,Employed,M
+High School or Below,Basic,Dubai,Married,,0.052109181141439205,Employed,
+High School or Below,Basic,Dubai,,,0.052109181141439205,Employed,M
+High School or Below,Basic,Dubai,Married,,0.052109181141439205,,M
+Bachelor,,,Married,India,0.052109181141439205,Employed,M
+College,,Abu Dhabi,Married,,0.052109181141439205,Employed,F
+Bachelor,,Sharjah,Married,,0.052109181141439205,Employed,F
+College,Basic,,Married,,0.052109181141439205,Employed,M
+High School or Below,Basic,,Married,Pakistan,0.052109181141439205,Employed,
+,Extended,,Married,India,0.04962779156327544,Employed,M
+,Basic,Abu Dhabi,Married,,0.04962779156327544,Employed,M
+College,,Dubai,Married,,0.04962779156327544,Employed,M
+College,,Sharjah,Married,,0.04962779156327544,Employed,F
+,Basic,,Married,Philipines,0.04962779156327544,Employed,F
+,Basic,Abu Dhabi,,India,0.04962779156327544,Employed,F
+,Basic,Abu Dhabi,Married,Pakistan,0.04714640198511166,,F
+Bachelor,Basic,Sharjah,,,0.04714640198511166,Employed,F
+Bachelor,,Abu Dhabi,Married,,0.04714640198511166,Employed,F
+Bachelor,Basic,,,India,0.04714640198511166,Employed,M
+Bachelor,Basic,Sharjah,Married,,0.04714640198511166,Employed,
+,,Sharjah,Married,India,0.04714640198511166,Employed,F
+Bachelor,Extended,,Married,,0.04714640198511166,Employed,M
+,Extended,Sharjah,Married,India,0.04714640198511166,Employed,
+,Basic,Dubai,Married,India,0.04466501240694789,Employed,
+,Basic,Dubai,Married,Pakistan,0.04466501240694789,Employed,
+,Basic,,Married,India,0.04466501240694789,Employed,F
+,Basic,Dubai,Married,Pakistan,0.04466501240694789,,M
+,Extended,,Married,Pakistan,0.04466501240694789,Employed,M
+,Basic,Dubai,Married,India,0.04466501240694789,,M
+,Basic,Dubai,,Pakistan,0.04466501240694789,Employed,M
+,Basic,Dubai,,India,0.04466501240694789,Employed,M
+,Extended,Abu Dhabi,Married,,0.04466501240694789,Employed,F
+High School or Below,Basic,Abu Dhabi,Married,,0.04466501240694789,Employed,
+Bachelor,Basic,Dubai,Married,,0.04218362282878412,Employed,
+Bachelor,Basic,,Married,Pakistan,0.04218362282878412,Employed,
+Bachelor,Basic,Dubai,,,0.04218362282878412,Employed,M
+High School or Below,Basic,,Married,,0.04218362282878412,Employed,F
+High School or Below,,,Married,India,0.04218362282878412,Employed,M
+Bachelor,Basic,Dubai,Married,,0.04218362282878412,,M
+College,Basic,Sharjah,Married,,0.04218362282878412,Employed,
+High School or Below,Basic,Abu Dhabi,,,0.04218362282878412,Employed,F
+College,Basic,Abu Dhabi,,,0.04218362282878412,Employed,F
+,,Sharjah,Married,Pakistan,0.04218362282878412,Employed,F
+Bachelor,Basic,Abu Dhabi,,,0.04218362282878412,Employed,M
+,Basic,Abu Dhabi,Married,India,0.04218362282878412,Employed,
+,Basic,Sharjah,Married,Philipines,0.03970223325062035,Employed,
+High School or Below,Basic,,Married,Pakistan,0.03970223325062035,,M
+High School or Below,,Dubai,,Pakistan,0.03970223325062035,Employed,M
+College,Basic,Abu Dhabi,Married,,0.03970223325062035,Employed,
+High School or Below,,Dubai,Married,Pakistan,0.03970223325062035,,M
+High School or Below,,Dubai,Married,Pakistan,0.03970223325062035,Employed,
+College,,,Married,Pakistan,0.03970223325062035,Employed,F
+,Basic,,Married,Philipines,0.03970223325062035,Employed,M
+Bachelor,,,Married,Pakistan,0.03970223325062035,Employed,F
+High School or Below,,Abu Dhabi,Married,,0.03970223325062035,Employed,F
+,Basic,Sharjah,Married,Pakistan,0.03970223325062035,Employed,
+,Extended,,Married,India,0.03970223325062035,Employed,F
+Bachelor,Basic,,Married,India,0.03722084367245657,,M
+High School or Below,Basic,,Married,India,0.03722084367245657,Employed,
+,Extended,Sharjah,,India,0.03722084367245657,Employed,F
+Bachelor,Basic,Sharjah,Married,,0.03722084367245657,,F
+,Basic,Sharjah,,India,0.03722084367245657,Employed,M
+Bachelor,Basic,Abu Dhabi,,,0.03722084367245657,Employed,F
+,Basic,Sharjah,,Pakistan,0.03722084367245657,Employed,F
+,,Abu Dhabi,Married,India,0.03722084367245657,Employed,F
+College,Extended,,Married,,0.03722084367245657,Employed,F
+,Extended,Sharjah,Married,,0.03722084367245657,Employed,M
+College,Basic,,Married,Pakistan,0.03722084367245657,Employed,
+High School or Below,Extended,Dubai,Married,,0.034739454094292806,Employed,
+High School or Below,Extended,Dubai,Married,,0.034739454094292806,,M
+,,Abu Dhabi,Married,Philipines,0.034739454094292806,Employed,F
+,Basic,Sharjah,,Philipines,0.034739454094292806,Employed,F
+,Extended,Dubai,Married,Pakistan,0.034739454094292806,,M
+Bachelor,,Abu Dhabi,Married,,0.034739454094292806,Employed,M
+College,Basic,Abu Dhabi,Married,,0.034739454094292806,,F
+,Extended,Dubai,,Pakistan,0.034739454094292806,Employed,M
+,Basic,,Married,China,0.034739454094292806,Employed,M
+High School or Below,Extended,Dubai,,,0.034739454094292806,Employed,M
+,Extended,Dubai,Married,Pakistan,0.034739454094292806,Employed,
+,,Sharjah,Married,India,0.034739454094292806,Employed,M
+,,Sharjah,Married,Philipines,0.034739454094292806,Employed,F
+,Basic,Sharjah,Married,India,0.034739454094292806,Employed,
+Bachelor,Basic,Abu Dhabi,Married,,0.03225806451612903,,F
+,Extended,Sharjah,Married,India,0.03225806451612903,,F
+College,Basic,Sharjah,,,0.03225806451612903,Employed,F
+,,Dubai,Married,Philipines,0.03225806451612903,Employed,M
+,Basic,Sharjah,Married,Pakistan,0.03225806451612903,,F
+High School or Below,Basic,Abu Dhabi,Married,,0.03225806451612903,,F
+College,,Sharjah,Married,India,0.03225806451612903,Employed,
+Bachelor,Basic,,Married,Pakistan,0.03225806451612903,,F
+Bachelor,,,Married,Pakistan,0.03225806451612903,Employed,M
+,Basic,Abu Dhabi,Married,India,0.03225806451612903,,F
+Bachelor,Extended,,Married,,0.03225806451612903,Employed,F
+High School or Below,Basic,Abu Dhabi,,Pakistan,0.03225806451612903,Employed,
+,Basic,Sharjah,Married,Philipines,0.02977667493796526,,F
+College,Extended,Sharjah,Married,,0.02977667493796526,Employed,
+,Basic,Abu Dhabi,Single,,0.02977667493796526,Employed,M
+College,Extended,,Married,India,0.02977667493796526,Employed,
+College,Extended,,Married,,0.02977667493796526,Employed,M
+College,Basic,Dubai,Married,,0.02977667493796526,Employed,
+College,Basic,,,Pakistan,0.02977667493796526,Employed,F
+College,,,Married,India,0.02977667493796526,Employed,F
+College,Basic,,Married,Pakistan,0.02977667493796526,,F
+College,Basic,,Married,Philipines,0.02977667493796526,Employed,
+,Basic,Abu Dhabi,Single,,0.02977667493796526,Employed,F
+College,Basic,Dubai,,,0.02977667493796526,Employed,M
+Master,,Sharjah,Married,,0.02977667493796526,Employed,F
+,Basic,Abu Dhabi,Married,Philipines,0.02977667493796526,Employed,
+College,,Abu Dhabi,,Pakistan,0.02977667493796526,Employed,F
+College,Basic,Dubai,Married,,0.02977667493796526,,M
+Bachelor,Extended,Dubai,Married,,0.02977667493796526,Employed,
+High School or Below,,Sharjah,Married,,0.02977667493796526,Employed,M
+Bachelor,Extended,,Married,Pakistan,0.02977667493796526,Employed,
+Bachelor,Extended,Dubai,Married,,0.02977667493796526,,M
+Bachelor,,Dubai,Married,India,0.02977667493796526,,M
+High School or Below,Basic,Dubai,,Pakistan,0.02977667493796526,,M
+Bachelor,Basic,,,Pakistan,0.02977667493796526,Employed,F
+Bachelor,,Abu Dhabi,Married,Pakistan,0.02977667493796526,Employed,
+Bachelor,,Dubai,Married,India,0.02977667493796526,Employed,
+Bachelor,Extended,Dubai,,,0.02977667493796526,Employed,M
+High School or Below,Basic,Dubai,Married,Pakistan,0.02977667493796526,,
+Bachelor,,Dubai,,India,0.02977667493796526,Employed,M
+High School or Below,Basic,Dubai,,Pakistan,0.02977667493796526,Employed,
+Bachelor,Basic,,,India,0.02729528535980149,Employed,F
+High School or Below,Basic,Sharjah,Married,,0.02729528535980149,Employed,
+College,,Sharjah,Married,,0.02729528535980149,Employed,M
+High School or Below,Basic,,,India,0.02729528535980149,Employed,M
+Bachelor,,,Married,India,0.02729528535980149,Employed,F
+,Basic,Abu Dhabi,,Pakistan,0.02729528535980149,Employed,M
+High School or Below,,Dubai,Married,India,0.02729528535980149,Employed,
+High School or Below,,Dubai,Married,India,0.02729528535980149,,M
+College,Extended,Sharjah,,,0.02729528535980149,Employed,F
+College,Extended,Sharjah,,India,0.02729528535980149,Employed,
+Bachelor,Basic,Abu Dhabi,Married,,0.02729528535980149,,M
+College,Basic,Sharjah,Married,,0.02729528535980149,,F
+College,Extended,,,India,0.02729528535980149,Employed,F
+Bachelor,Basic,Sharjah,,India,0.02729528535980149,Employed,
+,Premium,Abu Dhabi,,UAE,0.02729528535980149,Employed,F
+,Basic,Abu Dhabi,Single,India,0.02729528535980149,Employed,
+Bachelor,Extended,Sharjah,Married,,0.02729528535980149,Employed,
+High School or Below,,Dubai,,India,0.02729528535980149,Employed,M
+,Premium,,Married,UAE,0.02729528535980149,Employed,M
+College,,Abu Dhabi,Married,Pakistan,0.02481389578163772,Employed,
+College,,Abu Dhabi,Married,Pakistan,0.02481389578163772,,F
+Bachelor,Basic,Abu Dhabi,,India,0.02481389578163772,Employed,
+Bachelor,,Abu Dhabi,,Pakistan,0.02481389578163772,Employed,F
+Bachelor,,Sharjah,Married,India,0.02481389578163772,Employed,
+,Extended,Abu Dhabi,,Pakistan,0.02481389578163772,Employed,F
+College,Extended,Abu Dhabi,,,0.02481389578163772,Employed,F
+,Extended,,Married,Pakistan,0.02481389578163772,Employed,F
+High School or Below,Basic,,,Pakistan,0.02481389578163772,Employed,F
+College,,Sharjah,,India,0.02481389578163772,Employed,F
+,,Abu Dhabi,Married,India,0.02481389578163772,Employed,M
+High School or Below,,Abu Dhabi,Married,,0.02481389578163772,Employed,M
+,Extended,Abu Dhabi,Married,,0.02481389578163772,Employed,M
+,,Dubai,Married,China,0.02481389578163772,Employed,M
+,Basic,Abu Dhabi,,India,0.02481389578163772,Employed,M
+Bachelor,,Sharjah,Married,,0.02481389578163772,Employed,M
+Bachelor,,Abu Dhabi,Married,India,0.02481389578163772,Employed,
+,Basic,Sharjah,,India,0.02481389578163772,Employed,F
+Bachelor,Basic,Sharjah,,,0.02481389578163772,Employed,M
+Bachelor,Extended,Sharjah,,,0.02481389578163772,Employed,F
+Bachelor,Extended,,Married,India,0.02481389578163772,Employed,
+Bachelor,,Sharjah,,India,0.02481389578163772,Employed,F
+,Basic,Sharjah,Divorced,,0.02481389578163772,Employed,M
+,Basic,Abu Dhabi,,Philipines,0.02481389578163772,Employed,F
+College,Basic,Sharjah,,,0.02481389578163772,Employed,M
+Master,Basic,Sharjah,Married,,0.02481389578163772,Employed,
+High School or Below,Basic,Sharjah,,,0.02481389578163772,Employed,M
+Bachelor,Basic,,Married,Philipines,0.022332506203473945,Employed,
+Master,Basic,,Married,,0.022332506203473945,Employed,F
+High School or Below,Basic,,Married,India,0.022332506203473945,,M
+College,,Sharjah,,India,0.022332506203473945,Employed,M
+College,Extended,Abu Dhabi,Married,,0.022332506203473945,Employed,
+Bachelor,Basic,Dubai,,India,0.022332506203473945,Employed,
+Bachelor,Basic,Dubai,,India,0.022332506203473945,,M
+Bachelor,Basic,Dubai,Married,India,0.022332506203473945,,
+,Basic,,Single,India,0.022332506203473945,Employed,F
+College,Extended,,Married,India,0.022332506203473945,,F
+,Extended,Dubai,,India,0.022332506203473945,Employed,M
+,Extended,Sharjah,,India,0.022332506203473945,Employed,M
+Bachelor,Extended,Abu Dhabi,Married,,0.022332506203473945,Employed,
+High School or Below,Basic,Abu Dhabi,,,0.022332506203473945,Employed,M
+,Basic,,Married,Other,0.022332506203473945,Employed,M
+Bachelor,Basic,Abu Dhabi,,Pakistan,0.022332506203473945,Employed,
+,Extended,,Married,Philipines,0.022332506203473945,Employed,M
+,,Abu Dhabi,Single,India,0.022332506203473945,Employed,F
+Bachelor,,Sharjah,Married,Pakistan,0.022332506203473945,,F
+,Extended,Dubai,Married,India,0.022332506203473945,,M
+,Extended,Dubai,Married,India,0.022332506203473945,Employed,
+College,,,Married,India,0.022332506203473945,Employed,M
+Bachelor,,Sharjah,,Pakistan,0.022332506203473945,Employed,F
+College,Basic,,Married,India,0.022332506203473945,Employed,
+Bachelor,Basic,Abu Dhabi,Married,Pakistan,0.022332506203473945,,
+Bachelor,,Sharjah,Married,Pakistan,0.022332506203473945,Employed,
+Bachelor,,Abu Dhabi,Married,Pakistan,0.022332506203473945,,F
+College,Basic,Sharjah,,India,0.019851116625310174,Employed,
+College,Extended,Sharjah,,India,0.019851116625310174,,F
+,Extended,Abu Dhabi,Married,Pakistan,0.019851116625310174,Employed,
+College,Extended,Sharjah,Married,India,0.019851116625310174,,
+,,Dubai,Married,Other,0.019851116625310174,Employed,M
+College,,Sharjah,Married,India,0.019851116625310174,,F
+College,Extended,Sharjah,Married,,0.019851116625310174,,F
+College,Basic,,,India,0.019851116625310174,Employed,M
+,Basic,Dubai,Married,Philipines,0.019851116625310174,Employed,
+,Premium,,Married,UAE,0.019851116625310174,Employed,F
+,Basic,Abu Dhabi,Married,Philipines,0.019851116625310174,,F
+,Basic,Dubai,Married,Philipines,0.019851116625310174,,M
+,Basic,Dubai,,Philipines,0.019851116625310174,Employed,M
+College,Extended,Sharjah,,,0.019851116625310174,Employed,M
+,Basic,Abu Dhabi,,Philipines,0.019851116625310174,Employed,M
+,Basic,Sharjah,Married,India,0.019851116625310174,,M
+High School or Below,Extended,,Married,India,0.019851116625310174,Employed,
+Bachelor,Basic,Abu Dhabi,Married,India,0.019851116625310174,,
+High School or Below,Extended,,Married,India,0.019851116625310174,,M
+Bachelor,Basic,,,Pakistan,0.019851116625310174,Employed,M
+Bachelor,Basic,Sharjah,,Pakistan,0.019851116625310174,Employed,
+Bachelor,,,Married,Philipines,0.019851116625310174,Employed,F
+Bachelor,Basic,,,Philipines,0.019851116625310174,Employed,M
+Bachelor,Extended,Abu Dhabi,,,0.019851116625310174,Employed,F
+High School or Below,Basic,,Married,Philipines,0.019851116625310174,Employed,
+Bachelor,,,Married,Philipines,0.019851116625310174,Employed,M
+Master,Basic,Sharjah,,,0.019851116625310174,Employed,F
+High School or Below,Basic,Sharjah,,,0.019851116625310174,Employed,F
+Bachelor,,Sharjah,Married,Philipines,0.019851116625310174,Employed,
+,Extended,,Married,Philipines,0.019851116625310174,Employed,F
+College,,Abu Dhabi,,India,0.019851116625310174,Employed,F
+,Basic,Sharjah,Single,,0.019851116625310174,Employed,F
+Bachelor,,Dubai,,Pakistan,0.019851116625310174,Employed,M
+Bachelor,,Dubai,Married,Pakistan,0.019851116625310174,,M
+High School or Below,Extended,,,India,0.019851116625310174,Employed,M
+Bachelor,,Abu Dhabi,Divorced,,0.019851116625310174,Employed,F
+,Extended,Abu Dhabi,Married,India,0.019851116625310174,Employed,
+College,Extended,,Married,Pakistan,0.019851116625310174,Employed,
+Bachelor,,Dubai,Married,Pakistan,0.019851116625310174,Employed,
+Bachelor,Premium,Abu Dhabi,,UAE,0.019851116625310174,Employed,
+College,,Sharjah,Married,Pakistan,0.019851116625310174,Employed,
+High School or Below,Basic,Sharjah,Married,,0.017369727047146403,,M
+Bachelor,Extended,,Married,Philipines,0.017369727047146403,Employed,
+,Extended,,Married,China,0.017369727047146403,Employed,M
+,,Abu Dhabi,Married,Pakistan,0.017369727047146403,Employed,M
+,,Sharjah,Married,China,0.017369727047146403,Employed,M
+Bachelor,Basic,Abu Dhabi,,Pakistan,0.017369727047146403,,F
+Bachelor,Extended,,,India,0.017369727047146403,Employed,M
+High School or Below,Basic,Abu Dhabi,,India,0.017369727047146403,Employed,
+Bachelor,,Sharjah,,India,0.017369727047146403,Employed,M
+High School or Below,,Abu Dhabi,,Pakistan,0.017369727047146403,Employed,M
+Bachelor,Basic,,,Philipines,0.017369727047146403,Employed,F
+Bachelor,Extended,Sharjah,Married,,0.017369727047146403,,F
+Bachelor,Basic,Sharjah,,Pakistan,0.017369727047146403,,F
+High School or Below,Extended,Sharjah,Married,,0.017369727047146403,Employed,
+High School or Below,,Abu Dhabi,,Pakistan,0.017369727047146403,Employed,F
+Bachelor,Basic,Abu Dhabi,,Philipines,0.017369727047146403,Employed,
+Bachelor,Extended,Abu Dhabi,,Pakistan,0.017369727047146403,Employed,
+,Basic,Sharjah,,China,0.017369727047146403,Employed,M
+,Premium,Abu Dhabi,,UAE,0.017369727047146403,Employed,M
+Bachelor,Extended,,,Pakistan,0.017369727047146403,Employed,F
+,Extended,,Married,Other,0.017369727047146403,Employed,M
+Bachelor,Basic,Sharjah,Married,Pakistan,0.017369727047146403,,
+High School or Below,,,Married,Philipines,0.017369727047146403,Employed,M
+,,Sharjah,Married,Philipines,0.017369727047146403,Employed,M
+Bachelor,Extended,,Married,Pakistan,0.017369727047146403,,M
+Bachelor,Extended,,,Pakistan,0.017369727047146403,Employed,M
+Bachelor,Basic,,Married,India,0.017369727047146403,,F
+Bachelor,,Abu Dhabi,,India,0.017369727047146403,Employed,M
+High School or Below,Basic,Abu Dhabi,,Pakistan,0.017369727047146403,,F
+,Premium,Abu Dhabi,Married,UAE,0.017369727047146403,Employed,
+,Basic,Sharjah,Divorced,India,0.017369727047146403,Employed,
+High School or Below,Basic,,Single,Pakistan,0.017369727047146403,Employed,
+College,Basic,Abu Dhabi,,Pakistan,0.017369727047146403,,F
+College,Basic,Abu Dhabi,Married,Pakistan,0.017369727047146403,,
+College,Basic,Abu Dhabi,,Pakistan,0.017369727047146403,Employed,
+College,Extended,Abu Dhabi,Married,,0.017369727047146403,,F
+College,,Abu Dhabi,Married,Philipines,0.017369727047146403,Employed,
+,Basic,Abu Dhabi,Married,China,0.017369727047146403,Employed,
+,Extended,Abu Dhabi,,India,0.017369727047146403,Employed,M
+High School or Below,,Abu Dhabi,Married,India,0.017369727047146403,Employed,
+College,Extended,,,Pakistan,0.017369727047146403,Employed,F
+College,,Sharjah,,Pakistan,0.017369727047146403,Employed,F
+College,Basic,Sharjah,,Pakistan,0.017369727047146403,Employed,
+College,,,Married,Philipines,0.017369727047146403,Employed,F
+College,,,Married,Pakistan,0.017369727047146403,Employed,M
+,Extended,Abu Dhabi,Married,Philipines,0.017369727047146403,Employed,
+College,Basic,,,India,0.017369727047146403,Employed,F
+College,Basic,,,Philipines,0.017369727047146403,Employed,F
+,Basic,Sharjah,,Pakistan,0.017369727047146403,Employed,M
+High School or Below,,Abu Dhabi,,India,0.017369727047146403,Employed,F
+,Extended,Abu Dhabi,Married,Philipines,0.017369727047146403,,F
+Master,Basic,Abu Dhabi,,,0.017369727047146403,Employed,M
+Master,Basic,Abu Dhabi,Single,,0.017369727047146403,Employed,
+,Basic,Abu Dhabi,Single,India,0.017369727047146403,,F
+,Basic,,Married,Other,0.017369727047146403,Employed,F
+Master,Extended,,Married,,0.017369727047146403,Employed,F
+,,Abu Dhabi,Married,China,0.017369727047146403,Employed,F
+College,,,Married,China,0.017369727047146403,Employed,M
+Master,Basic,,Married,,0.017369727047146403,Employed,M
+High School or Below,Basic,,,India,0.017369727047146403,Employed,F
+,Basic,,Divorced,India,0.01488833746898263,Employed,M
+,Extended,Sharjah,,China,0.01488833746898263,Employed,F
+,Extended,Sharjah,Married,India,0.01488833746898263,,M
+,Basic,Abu Dhabi,Divorced,,0.01488833746898263,Employed,M
+High School or Below,Basic,,Single,,0.01488833746898263,Employed,F
+High School or Below,Extended,Abu Dhabi,Married,,0.01488833746898263,Employed,
+High School or Below,,Sharjah,Married,,0.01488833746898263,Employed,F
+High School or Below,,,Married,China,0.01488833746898263,Employed,M
+High School or Below,,,Married,India,0.01488833746898263,Employed,F
+,Extended,Abu Dhabi,Married,Pakistan,0.01488833746898263,,F
+,Basic,Abu Dhabi,Married,Other,0.01488833746898263,Employed,
+High School or Below,,,Married,Pakistan,0.01488833746898263,Employed,F
+,Extended,Sharjah,,Pakistan,0.01488833746898263,Employed,F
+,Basic,Sharjah,Married,China,0.01488833746898263,Employed,
+High School or Below,Basic,Abu Dhabi,,India,0.01488833746898263,,F
+,Basic,Sharjah,Married,Other,0.01488833746898263,Employed,
+,Basic,Sharjah,,Philipines,0.01488833746898263,Employed,M
+High School or Below,Extended,,,Pakistan,0.01488833746898263,Employed,M
+,Extended,Sharjah,Married,Pakistan,0.01488833746898263,Employed,
+High School or Below,,Abu Dhabi,Married,Pakistan,0.01488833746898263,Employed,
+,Extended,Abu Dhabi,,Philipines,0.01488833746898263,Employed,F
+High School or Below,Extended,,Married,Pakistan,0.01488833746898263,Employed,
+,,Sharjah,Divorced,India,0.01488833746898263,Employed,M
+High School or Below,Basic,Abu Dhabi,Married,Pakistan,0.01488833746898263,,
+,Basic,Abu Dhabi,Single,Pakistan,0.01488833746898263,Employed,
+,Basic,,Single,India,0.01488833746898263,Employed,M
+High School or Below,Basic,Sharjah,,Pakistan,0.01488833746898263,Employed,
+High School or Below,Basic,,Married,India,0.01488833746898263,,F
+High School or Below,Basic,Abu Dhabi,Married,India,0.01488833746898263,,
+High School or Below,Basic,Abu Dhabi,,Pakistan,0.01488833746898263,,M
+,Basic,Sharjah,Married,India,0.01488833746898263,,F
+,Extended,,Married,China,0.01488833746898263,Employed,F
+High School or Below,,Sharjah,,India,0.01488833746898263,Employed,M
+College,Premium,,Married,UAE,0.01488833746898263,Employed,
+College,Basic,,,China,0.01488833746898263,Employed,M
+College,Basic,Abu Dhabi,Married,Philipines,0.01488833746898263,,
+College,Basic,Abu Dhabi,,Philipines,0.01488833746898263,Employed,
+Bachelor,,Sharjah,Married,India,0.01488833746898263,,F
+College,,Abu Dhabi,Married,,0.01488833746898263,Employed,M
+College,,Abu Dhabi,Married,India,0.01488833746898263,Employed,
+College,Extended,Abu Dhabi,,India,0.01488833746898263,Employed,
+Bachelor,Basic,Sharjah,,India,0.01488833746898263,,F
+Bachelor,Basic,Sharjah,Divorced,,0.01488833746898263,Employed,
+College,,Sharjah,Married,Pakistan,0.01488833746898263,,F
+Bachelor,Basic,,Divorced,,0.01488833746898263,Employed,M
+College,Basic,Sharjah,Married,Pakistan,0.01488833746898263,,
+Bachelor,Basic,,Married,Pakistan,0.01488833746898263,,M
+College,Basic,,Married,Philipines,0.01488833746898263,,F
+Bachelor,Basic,Abu Dhabi,Single,,0.01488833746898263,Employed,
+College,Basic,,Married,Philipines,0.01488833746898263,,M
+College,Basic,,Married,India,0.01488833746898263,,M
+College,Basic,Sharjah,Married,,0.01488833746898263,,M
+College,Basic,,Married,China,0.01488833746898263,Employed,
+College,Basic,,,Philipines,0.01488833746898263,Employed,M
+College,,Abu Dhabi,Single,,0.01488833746898263,Employed,F
+College,Basic,Abu Dhabi,,India,0.01488833746898263,,F
+Bachelor,Basic,,Married,China,0.01488833746898263,Employed,
+Master,Extended,,Married,,0.01488833746898263,Employed,M
+Master,Basic,Sharjah,Married,,0.01488833746898263,,F
+Master,,,Married,Philipines,0.01488833746898263,Employed,F
+Master,Basic,Abu Dhabi,,India,0.01488833746898263,Employed,
+Master,Basic,,Married,Philipines,0.01488833746898263,Employed,
+Master,Basic,Sharjah,,Philipines,0.01488833746898263,Employed,
+Master,Basic,Sharjah,,,0.01488833746898263,Employed,M
+Master,,Abu Dhabi,Married,,0.01488833746898263,Employed,F
+Master,Basic,Abu Dhabi,,,0.01488833746898263,Employed,F
+Master,Extended,,Married,India,0.01488833746898263,Employed,
+Bachelor,Basic,Sharjah,,Philipines,0.01488833746898263,Employed,
+Master,Extended,Sharjah,Married,,0.01488833746898263,Employed,
+Master,,Sharjah,Married,Philipines,0.01488833746898263,Employed,
+Bachelor,Extended,Sharjah,,India,0.01488833746898263,Employed,
+Master,,Sharjah,Married,,0.01488833746898263,Employed,M
+Bachelor,Extended,,Married,India,0.01488833746898263,,M
+College,Extended,Dubai,Married,,0.01488833746898263,,M
+College,Extended,Dubai,Married,,0.01488833746898263,Employed,
+College,Extended,Dubai,,,0.01488833746898263,Employed,M
+College,Basic,Sharjah,,India,0.01488833746898263,,M
+College,Extended,,,Pakistan,0.01488833746898263,Employed,M
+Bachelor,,Abu Dhabi,,India,0.01488833746898263,Employed,F
+,Basic,Dubai,,China,0.01488833746898263,Employed,M
+Bachelor,Extended,Abu Dhabi,Married,,0.01488833746898263,,F
+,Premium,Dubai,,UAE,0.01488833746898263,Employed,M
+,Basic,Dubai,Married,China,0.01488833746898263,,M
+,Premium,Abu Dhabi,Divorced,UAE,0.01488833746898263,Employed,
+Bachelor,,Abu Dhabi,,Pakistan,0.01488833746898263,Employed,M
+,Premium,,Divorced,UAE,0.01488833746898263,Employed,F
+High School or Below,Basic,Dubai,,India,0.01488833746898263,Employed,
+,,Dubai,Married,UAE,0.01488833746898263,Employed,M
+High School or Below,Premium,,Married,UAE,0.01488833746898263,Employed,
+Bachelor,,Abu Dhabi,,UAE,0.01488833746898263,Employed,F
+,Premium,Sharjah,Married,UAE,0.01488833746898263,Employed,
+High School or Below,Premium,,,UAE,0.01488833746898263,Employed,M
+High School or Below,Basic,Dubai,,India,0.01488833746898263,,M
+High School or Below,Basic,Dubai,Married,India,0.01488833746898263,,
+,Premium,Dubai,Married,,0.01488833746898263,Employed,M
+,Basic,Dubai,Married,China,0.01488833746898263,Employed,
+,Premium,Dubai,Married,UAE,0.01488833746898263,Employed,
+Bachelor,Premium,Abu Dhabi,,UAE,0.01488833746898263,,F
+College,,,Married,Philipines,0.01488833746898263,Employed,M
+Bachelor,Premium,,,UAE,0.01488833746898263,Employed,F
+Bachelor,Premium,Abu Dhabi,,,0.01488833746898263,Employed,F
+,Premium,Dubai,Married,UAE,0.01488833746898263,,M
+Bachelor,,Abu Dhabi,,Philipines,0.01488833746898263,Employed,F
+College,Extended,,,India,0.01488833746898263,Employed,M
+Bachelor,,,Married,Other,0.01240694789081886,Employed,M
+Bachelor,Basic,,Single,India,0.01240694789081886,Employed,
+Master,Basic,Abu Dhabi,Single,India,0.01240694789081886,,
+High School or Below,Extended,Sharjah,,,0.01240694789081886,Employed,M
+High School or Below,Extended,Sharjah,,,0.01240694789081886,Employed,F
+,,Sharjah,Married,Other,0.01240694789081886,Employed,F
+Bachelor,Extended,Sharjah,Married,India,0.01240694789081886,,
+Bachelor,,,Married,China,0.01240694789081886,Employed,M
+High School or Below,,,Married,Philipines,0.01240694789081886,Employed,F
+Bachelor,Extended,Sharjah,,,0.01240694789081886,Employed,M
+Bachelor,Extended,Dubai,Married,Pakistan,0.01240694789081886,,
+,Basic,Sharjah,,China,0.01240694789081886,Employed,F
+Bachelor,,Sharjah,,Philipines,0.01240694789081886,Employed,M
+Master,,Dubai,Married,,0.01240694789081886,Employed,M
+,Basic,Sharjah,,Other,0.01240694789081886,Employed,F
+Bachelor,Premium,,Divorced,UAE,0.01240694789081886,Employed,
+High School or Below,,,Married,UAE,0.01240694789081886,Employed,M
+Bachelor,Extended,Dubai,,Pakistan,0.01240694789081886,,M
+High School or Below,,,Married,Other,0.01240694789081886,Employed,M
+Master,,Abu Dhabi,Single,,0.01240694789081886,Employed,F
+High School or Below,,Sharjah,Married,India,0.01240694789081886,Employed,
+Bachelor,Extended,Dubai,,Pakistan,0.01240694789081886,Employed,
+Bachelor,Extended,Abu Dhabi,,Pakistan,0.01240694789081886,,F
+High School or Below,,Sharjah,Single,,0.01240694789081886,Employed,F
+Bachelor,Basic,,Single,,0.01240694789081886,Employed,M
+High School or Below,Extended,Sharjah,Married,,0.01240694789081886,,M
+Bachelor,Basic,Abu Dhabi,,India,0.01240694789081886,,M
+,Extended,Sharjah,Married,Philipines,0.01240694789081886,Employed,
+High School or Below,Extended,,Married,China,0.01240694789081886,Employed,
+Bachelor,,Abu Dhabi,Married,India,0.01240694789081886,,F
+,Basic,Sharjah,Single,,0.01240694789081886,Employed,M
+Bachelor,,Abu Dhabi,Married,India,0.01240694789081886,,M
+Bachelor,,Abu Dhabi,Single,,0.01240694789081886,Employed,M
+Bachelor,Extended,,Married,Pakistan,0.01240694789081886,,F
+High School or Below,Basic,Sharjah,Single,,0.01240694789081886,Employed,
+High School or Below,Basic,Sharjah,,India,0.01240694789081886,Employed,
+Master,,Abu Dhabi,Single,,0.01240694789081886,Employed,M
+Bachelor,Basic,Abu Dhabi,,India,0.01240694789081886,,F
+Bachelor,,Sharjah,Divorced,,0.01240694789081886,Employed,M
+Bachelor,Basic,,Married,Philipines,0.01240694789081886,,F
+Bachelor,,Abu Dhabi,Divorced,UAE,0.01240694789081886,Employed,
+Bachelor,Basic,,Single,,0.01240694789081886,Employed,F
+Bachelor,,Abu Dhabi,Married,Pakistan,0.01240694789081886,,M
+Bachelor,Extended,,,India,0.01240694789081886,Employed,F
+,Basic,Sharjah,Married,China,0.01240694789081886,,M
+Bachelor,,Sharjah,,Philipines,0.01240694789081886,Employed,F
+Bachelor,Basic,Sharjah,Married,Philipines,0.01240694789081886,,
+,Extended,Sharjah,Married,China,0.01240694789081886,Employed,
+Bachelor,Basic,,Married,China,0.01240694789081886,,M
+Bachelor,Extended,Abu Dhabi,Married,Pakistan,0.01240694789081886,,
+Bachelor,Basic,Sharjah,Married,,0.01240694789081886,,M
+Bachelor,Basic,Sharjah,Married,India,0.01240694789081886,,
+Bachelor,Basic,Sharjah,,India,0.01240694789081886,,M
+Bachelor,Basic,,,China,0.01240694789081886,Employed,M
+Master,,Abu Dhabi,,India,0.01240694789081886,Employed,M
+,,Abu Dhabi,Divorced,Pakistan,0.01240694789081886,Employed,F
+Master,,Abu Dhabi,Single,India,0.01240694789081886,Employed,
+,Basic,Abu Dhabi,Married,India,0.01240694789081886,,M
+Bachelor,Premium,Abu Dhabi,Divorced,,0.01240694789081886,Employed,
+High School or Below,,Abu Dhabi,Married,India,0.01240694789081886,,F
+College,,Sharjah,Married,India,0.01240694789081886,,M
+College,Extended,Sharjah,Married,,0.01240694789081886,,M
+,Extended,Abu Dhabi,,India,0.01240694789081886,Employed,F
+High School or Below,Basic,Abu Dhabi,Married,,0.01240694789081886,,M
+College,Basic,Sharjah,Married,India,0.01240694789081886,,
+College,Basic,,Single,,0.01240694789081886,Employed,F
+High School or Below,Basic,,,Philipines,0.01240694789081886,Employed,F
+College,,Sharjah,Divorced,India,0.01240694789081886,Employed,
+College,,Sharjah,Divorced,,0.01240694789081886,Employed,M
+High School or Below,Basic,Abu Dhabi,Single,,0.01240694789081886,Employed,
+College,Extended,Sharjah,Divorced,,0.01240694789081886,Employed,
+,Basic,Abu Dhabi,,Other,0.01240694789081886,Employed,M
+College,,Sharjah,,Pakistan,0.01240694789081886,Employed,M
+College,Extended,Sharjah,,Pakistan,0.01240694789081886,Employed,
+,Basic,Abu Dhabi,,China,0.01240694789081886,Employed,F
+,Premium,Abu Dhabi,Divorced,UAE,0.01240694789081886,,F
+,Premium,Abu Dhabi,Divorced,,0.01240694789081886,Employed,F
+,Premium,Abu Dhabi,Single,UAE,0.01240694789081886,Employed,
+,Extended,Abu Dhabi,Divorced,Pakistan,0.01240694789081886,Employed,
+,,Abu Dhabi,Divorced,Pakistan,0.01240694789081886,Employed,M
+Doctor,Basic,,Married,,0.01240694789081886,Employed,F
+Doctor,Basic,Abu Dhabi,,,0.01240694789081886,Employed,F
+High School or Below,Extended,Dubai,,India,0.01240694789081886,Employed,
+High School or Below,Extended,Dubai,,India,0.01240694789081886,,M
+,Extended,Dubai,,Philipines,0.01240694789081886,Employed,M
+High School or Below,Extended,Dubai,Married,India,0.01240694789081886,,
+,Extended,Dubai,Married,Philipines,0.01240694789081886,Employed,
+,Basic,Abu Dhabi,Married,Pakistan,0.01240694789081886,,M
+,Extended,Dubai,Married,Philipines,0.01240694789081886,,M
+,,Abu Dhabi,Divorced,UAE,0.01240694789081886,Employed,F
+High School or Below,Premium,,Married,,0.01240694789081886,Employed,M
+High School or Below,Premium,,Married,UAE,0.01240694789081886,,M
+,Premium,Sharjah,,UAE,0.01240694789081886,Employed,F
+,Extended,Abu Dhabi,Married,India,0.01240694789081886,,M
+College,Basic,Sharjah,,Pakistan,0.01240694789081886,,F
+High School or Below,,Abu Dhabi,Married,Philipines,0.01240694789081886,Employed,
+,Basic,,Single,Pakistan,0.01240694789081886,Employed,M
+College,,Dubai,Married,Pakistan,0.01240694789081886,Employed,
+College,,Dubai,Married,Pakistan,0.01240694789081886,,M
+,Basic,Abu Dhabi,Divorced,Pakistan,0.01240694789081886,Employed,
+Master,,Sharjah,Married,India,0.01240694789081886,Employed,
+High School or Below,,Sharjah,Married,Pakistan,0.01240694789081886,Employed,
+,,Sharjah,Married,Pakistan,0.01240694789081886,Employed,M
+,Basic,Sharjah,Divorced,,0.01240694789081886,Employed,F
+,Extended,Sharjah,Divorced,,0.01240694789081886,Employed,F
+,Basic,Sharjah,Divorced,India,0.01240694789081886,,M
+Master,Basic,Sharjah,,China,0.01240694789081886,Employed,
+Master,Basic,,Single,India,0.01240694789081886,Employed,
+Master,Basic,,,India,0.01240694789081886,Employed,M
+,Basic,,Married,China,0.01240694789081886,Employed,F
+,Basic,Sharjah,Married,Other,0.01240694789081886,,F
+Master,Basic,Sharjah,Married,Philipines,0.01240694789081886,,
+High School or Below,Extended,,Married,Pakistan,0.01240694789081886,,M
+College,,Dubai,,Pakistan,0.01240694789081886,Employed,M
+,,Abu Dhabi,Married,Philipines,0.01240694789081886,Employed,M
+College,,Dubai,Married,China,0.01240694789081886,,M
+College,,Abu Dhabi,Single,India,0.01240694789081886,Employed,
+High School or Below,Extended,Abu Dhabi,,,0.01240694789081886,Employed,M
+,,Abu Dhabi,Single,India,0.01240694789081886,Employed,M
+,Basic,,Divorced,Pakistan,0.01240694789081886,Employed,M
+High School or Below,Basic,,Married,Pakistan,0.01240694789081886,,F
+College,Basic,Abu Dhabi,Single,,0.01240694789081886,Employed,
+College,Basic,Abu Dhabi,,India,0.01240694789081886,Employed,
+,Basic,,Single,Pakistan,0.01240694789081886,Employed,F
+College,,Abu Dhabi,Married,India,0.01240694789081886,,F
+College,Extended,Abu Dhabi,,Pakistan,0.01240694789081886,Employed,
+High School or Below,,Sharjah,,Pakistan,0.01240694789081886,Employed,F
+High School or Below,,,Single,Pakistan,0.01240694789081886,Employed,F
+College,Extended,Abu Dhabi,,Pakistan,0.01240694789081886,,F
+College,,Dubai,,China,0.01240694789081886,Employed,M
+College,,Dubai,Married,China,0.01240694789081886,Employed,
+Bachelor,Premium,Abu Dhabi,Divorced,UAE,0.01240694789081886,,
