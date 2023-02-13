@@ -199,7 +199,7 @@ def show_persona(open, close, country, emirate, gender, marital, occupation, inc
     return True, 0, 0, persona
 
 # Initialize the OpenAI API client
-openai.api_key = "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"
+openai.api_key = ""
 
 # datasets
 df = pd.read_csv("data/clustered.csv")
