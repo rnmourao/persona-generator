@@ -333,9 +333,9 @@ layout = html.Div([
 
                     dbc.Row([
                         dbc.Textarea(
-                            className="mb-3", placeholder="Add any other relevant information"),
+                            className="mb-3", placeholder="Add any other relevant information", id='txt-remarks'),
                     ],
-                        className="row mt-3", id='txt-remarks'),
+                        className="row mt-3"),
 
                 ]))
         ]),
