@@ -7,6 +7,7 @@ import random
 import numpy as np
 from dash.exceptions import PreventUpdate
 import openai
+from openai.error import OpenAIError
 
 
 def pie_chart(df):
@@ -52,27 +53,20 @@ def retrieve_bio(name, country, emirate, gender, marital, occupation, income, ed
         Bio:
     """
 
-
-# 1. Difficulty in understanding the policy terms and coverage options.
-# 2. Confusion about the claims process and how to file a claim.
-# 3. Premiums that are too high and not affordable.
-# 4. Poor customer service and communication from the insurance company.
-# 5. Unsatisfactory repair work done by the insurance company's preferred garages or mechanics.
-# 6. Insufficient coverage that does not meet the customer's needs or expectations.
-# 7. Difficulty in canceling a policy or making changes to coverage.
-
     # Call the OpenAI API to get the completion suggestions
-    completions = openai.Completion.create(
-        engine="text-davinci-002",
-        prompt=f"{text}",
-        max_tokens=500,
-        n=1,
-        stop=None,
-        temperature=0.5,
-    )
-
-    # Extract the completion suggestions from the API response
-    return completions.choices[0].text
+    try:
+        completions = openai.Completion.create(
+            engine="text-davinci-002",
+            prompt=f"{text}",
+            max_tokens=500,
+            n=1,
+            stop=None,
+            temperature=0.5,
+        )
+        # Extract the completion suggestions from the API response
+        return completions.choices[0].text
+    except OpenAIError:
+        return ""
 
 
 @callback(
@@ -199,7 +193,7 @@ def show_persona(open, close, country, emirate, gender, marital, occupation, inc
     return True, 0, 0, persona
 
 # Initialize the OpenAI API client
-openai.api_key = ""
+openai.api_key = os.environ['OPENAI-API-KEY']
 
 # datasets
 df = pd.read_csv("data/clustered.csv")
