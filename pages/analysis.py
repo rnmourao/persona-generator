@@ -13,7 +13,7 @@ import json
 
 
 def get_secret_value(secret_name, secret_key):
-    secrets_client = boto3.client('secretsmanager')
+    secrets_client = boto3.client('secretsmanager', region_name='us-east-1')
     response = secrets_client.get_secret_value(SecretId=secret_name)
     secret_dict = json.loads(response['SecretString'])
     return secret_dict[secret_key]
