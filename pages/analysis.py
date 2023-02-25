@@ -8,6 +8,15 @@ import numpy as np
 from dash.exceptions import PreventUpdate
 import openai
 from openai.error import OpenAIError
+import boto3
+import json
+
+
+def get_secret_value(secret_name, secret_key):
+    secrets_client = boto3.client('secretsmanager')
+    response = secrets_client.get_secret_value(SecretId=secret_name)
+    secret_dict = json.loads(response['SecretString'])
+    return secret_dict[secret_key]
 
 
 def pie_chart(df):
@@ -193,7 +202,7 @@ def show_persona(open, close, country, emirate, gender, marital, occupation, inc
     return True, 0, 0, persona
 
 # Initialize the OpenAI API client
-openai.api_key = os.environ['OPENAI-API-KEY']
+openai.api_key = get_secret_value('OPENAI', 'API-KEY')
 
 # datasets
 df = pd.read_csv("data/clustered.csv")
